@@ -1,0 +1,13 @@
+name: cambridge-jobs
+title: cambridge-jobs
+username:
+account: runkelcorey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5432688
+bundleId: 5462273
+url: https://runkelcorey.shinyapps.io/cambridge-jobs/
+when: 1642022118.32377
+lastSyncTime: 1642022118.32379
+asMultiple: FALSE
+asStatic: FALSE
