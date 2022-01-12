@@ -1,0 +1,30 @@
+name: Scrape Cambridge jobs data
+
+on:
+  schedule:
+    #weekdays at noon
+    - cron: "0 12 * * 1-5"
+    
+jobs:
+  scrape_data:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@main
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+      - name: Set up renv
+        uses: r-lib/actions/setup-renv@v1
+      - name: Run script
+        run: Rscript data/import.R
+      - name: Commit data
+        run: |
+          git add data/jobs.csv
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update job listings"
+      - name: Push data
+        run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }
+      
