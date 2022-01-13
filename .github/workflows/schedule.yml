@@ -3,12 +3,8 @@ name: Scrape Cambridge jobs data
 on:
   schedule:
     #weekdays at noon
-<<<<<<< HEAD
     - cron: "0 12 * * 1-5"
   workflow-dispatch:
-=======
-    - cron: "0 17 * * 1-5"
->>>>>>> 55f6dba98dd9d87df9281651962a2a74a8636ec7
     
 jobs:
   scrape_data:
