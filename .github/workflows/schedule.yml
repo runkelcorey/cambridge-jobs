@@ -26,5 +26,5 @@ jobs:
       - name: Push data
         run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
