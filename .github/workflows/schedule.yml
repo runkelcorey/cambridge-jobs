@@ -4,7 +4,7 @@ on:
   schedule:
     #weekdays at noon
     - cron: "0 12 * * 1-5"
-  workflow-dispatch:
+  workflow_dispatch:
     
 jobs:
   scrape_data:
