@@ -4,6 +4,7 @@ on:
   schedule:
     #weekdays at noon
     - cron: "0 12 * * 1-5"
+  workflow-dispatch:
     
 jobs:
   scrape_data:
@@ -16,7 +17,7 @@ jobs:
       - name: Set up renv
         uses: r-lib/actions/setup-renv@v1
       - name: Run script
-        run: Rscript data/import.R
+        run: Rscript data/scrape.R
       - name: Commit data
         run: |
           git add data/jobs.csv
@@ -26,5 +27,5 @@ jobs:
       - name: Push data
         run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
       

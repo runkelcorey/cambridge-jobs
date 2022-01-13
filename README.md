@@ -13,12 +13,12 @@ union affiliation
 + automatically update each day
 
 ## to-do (server)
-- [] identify CSS path of job listings
-- [] identify CSS path of each listings' attributes
-- [] define data architecture (SQLite? CSV?)
-- [] research best practices for Shiny database front-ends
+- [x] identify CSS path of job listings
+- [x] identify CSS path of each listings' attributes
+- [x] define data architecture (SQLite? CSV?)
+- [ ] research best practices for Shiny database front-ends
 
 ## to-do (ui)
-- [] left panel: filters
-- [] main panel: job listings
-- [] top panel: search bar, download button
+- [ ] left panel: filters
+- [x] main panel: job listings
+- [ ] top panel: search bar, download button
