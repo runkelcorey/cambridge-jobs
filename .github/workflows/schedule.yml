@@ -28,8 +28,3 @@ jobs:
         run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<<<<<<< HEAD
-      
-=======
-      
->>>>>>> 55f6dba98dd9d87df9281651962a2a74a8636ec7
