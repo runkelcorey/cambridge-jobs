@@ -26,7 +26,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update job listings"
-      - name: Push data
-        run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push
