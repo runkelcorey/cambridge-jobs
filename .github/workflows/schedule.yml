@@ -3,7 +3,7 @@ name: Scrape Cambridge jobs data
 on:
   schedule:
     #weekdays at noon
-    - cron: "0 12 * * 1-5"
+    - cron: "0 17 * * 1-5"
   workflow_dispatch:
     
 jobs:
