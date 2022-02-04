@@ -3,23 +3,21 @@ name: Scrape Cambridge jobs data
 on:
   schedule:
     #weekdays at noon
-<<<<<<< HEAD
-    - cron: "0 12 * * 1-5"
-  workflow-dispatch:
-=======
     - cron: "0 17 * * 1-5"
->>>>>>> 55f6dba98dd9d87df9281651962a2a74a8636ec7
+  workflow_dispatch:
     
 jobs:
   scrape_data:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@main
+      - name: Install libcurl
+        run: sudo apt-get install libcurl4-openssl-dev
       - name: Setup R
-        uses: r-lib/actions/setup-r@v1
+        uses: r-lib/actions/setup-r@v2
       - name: Set up renv
-        uses: r-lib/actions/setup-renv@v1
+        uses: r-lib/actions/setup-renv@v2
       - name: Run script
         run: Rscript data/scrape.R
       - name: Commit data
@@ -28,12 +26,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update job listings"
-      - name: Push data
-        run: git push "https://$runkelcorey:${TOKEN}@github.com/$cambridge-jobs.git" HEAD:main
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<<<<<<< HEAD
-      
-=======
-      
->>>>>>> 55f6dba98dd9d87df9281651962a2a74a8636ec7
+          git push
