@@ -45,13 +45,15 @@ jobs <- inner_join(listings, dates) %>%
          civil = ifelse(grepl("Non", civil), FALSE, TRUE),
          type = ifelse(grepl("hour", pay), "wage", "salary"),
          pay = str_replace(pay, " to |–", "-"),
-         hours = str_replace(str_replace(str_remove(substr(hours, 1, 10), "-h"), "[u|U]p", "0"), " to ", "-")) %>%
+         hours = str_replace(str_replace(str_remove(substr(hours, 1, 10), "-h"), "[u|U]p", "0"), " to ", "-"),
+         open = TRUE) %>%
   separate(hours, c("hours_min", "hours_max"), sep = "-", fill = "left") %>%
   separate(pay, c("pay_min", "pay_max"), sep = "-", fill = "left") %>%
   mutate(across(c(department, code, union, type), as_factor),
          across(c(hours_min, hours_max, pay_min, pay_max), parse_number),
          across(c(posted, due), lubridate::ymd)) %>%
-  bind_rows(read_csv("data/jobs.csv", col_types = "cfcfl?nnDDnncccf", show_col_types = FALSE)) %>%
+  bind_rows(read_csv("data/jobs.csv", col_types = "cfcfl?nnDDnncccf", show_col_types = FALSE, col_select = !open)) %>%
+  mutate(open = replace_na(open, FALSE)) %>%
   distinct(id, .keep_all = TRUE)
 
 write_csv(jobs, "data/jobs.csv")
