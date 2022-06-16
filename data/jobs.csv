@@ -1,4 +1,35 @@
 id,department,title,code,civil,union,hours_min,hours_max,posted,due,pay_min,pay_max,requirements,responsibilities,preferred,type,open
+2861,License Commission,Administrative Assistant,C099-004,TRUE,Teamster Local 25,NA,37.5,2022-06-15,2022-08-01,21.95,33.220000000000006,"Ability to work effectively, independently, and cooperatively on multiple tasks in busy environment.
+Knowledge and familiarity with Pole and Conduit industry, as well as state and local licensing regulations.
+Two years of related office work experience, or equivalent combination of education, experience and training required.
+Ability to interact professionally and effectively with the general public and applicants.
+Well organized, detail oriented, and can multitask.
+Strong customer service background.
+Ability to manage multiple projects independently and simultaneously.
+Ability to work cooperatively with a diverse group of people.
+Excellent writing skills required to effectively communicate through e-mails, letters, and memoranda.
+Computer proficiency in Microsoft Office, familiarity with databases and work order systems.
+Motivated team player with the ability to maintain excellent customer service skills and high productivity while working in a busy work environment and under tight deadlines.
+Flexible and responsive approach to changing workplace demands and business needs.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","Provides clerical, word processing, and administrative support services for License Commission and Pole and Conduit Commission
+Processes, tracks, and maintains Pole and Conduit applications and records
+Sets up hearing agenda for Pole and Conduit Commission monthly hearings
+Acts as liaison to telecommunications industry and utilities
+Processes and maintains New Hackney Driver and Hackney renewal records
+Processes, tracks, maintains and issues one day licenses
+Manages Garage and Flammable Storage records
+Assists the Civil Investigation Unit with clerical support, as needed
+Processes documentation for purchases and vendor payments
+Performs Remote Check Deposit/Scan Check
+Responsible for maintaining and ordering supplies
+Creates Hackney, Jitney, and Employee IDs
+Assists License Commission's Keeper of Records to respond to requests for information
+Answers phones and provides overall office support services, including photocopies, maintain files, processes renewals, processes payments, research data as required
+Types reports and correspondence
+Serves as back up to all other front office personnel
+Provides administrative support to the Department Head or Chair
+Performs related duties as required
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
 2710,Human Service Programs,"Administrative Assistant, Community Learning Center",X259,FALSE,NA,NA,19.5,2021-12-08,NA,NA,18.87,"Strong organizational and technologyskills
 Excellent communication skills
 Sensitivity to the needs of the adult learner population
@@ -753,6 +784,29 @@ Maintaining the Facility and Workspace
 Undertaking Special Projects
 ETDs receive a variety of operational and technical training in support of their duties. ETDs work in a combined 911 and Public Safety Dispatch environment handling police, fire, and medical emergencies. ETDs also handle police and fire non-emergency calls on 10-digit business lines. Based on training, console position setup and the discretion of supervisors, ETDs will be expected to work at any position including those primarily responsible for call answering, police dispatching, fire/EMS dispatching, and computer operations. ETDs are expected to participate in on-going training and to maintain all dispatch-related certifications, including those for CPR, Emergency Medical Dispatch (EMD), and CJIS. ETDs may also be assigned a wide variety of special duties at the discretion of Department management, including support duties in the Emergency Operations Center or at Tactical Command Posts. All ETD's are also required to assist with training other employees as needed. 
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+2860,Emergency Communications Department,Enterprise Application Specialist for Public Safety,M229-701,FALSE,NA,NA,37.5,2022-06-15,2022-07-13,95052,112590,"Bachelor's degree in Information Technology, or equivalent combination of education, experience, and training.
+Application support experience such as: Web applications, SharePoint, VBA, Power BI, HTML, JavaScript, MS SQL and Informix
+Broad knowledge of application deployment architecture and infrastructure components
+Experience in application architecture, design, and development a plus
+Troubleshooting experience resolving varied application related problems (error messages, connectivity, delayed response times, etc.)
+Familiar with software principles of DRY, KISS, and YAGNI
+Equally proficient in building/maintaining applications via ADE or simple text editors
+Experience with monitoring tools is a plus.
+Excellent problem solving/analytical skills and knowledge of analytical tools.
+Excellent verbal, written communication, and negotiations skills.
+Ability to effectively interface with technical and non-technical staff at all organizational levels.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","Reporting to the Application & Database Manager, the Enterprise Application Specialist will support the Computer Aided Dispatch (CAD), Police and Fire Records Management Systems (RMS) and other applications used by Public Safety. This position will also offer opportunity to expand knowledge into other enterprise applications used by the City of Cambridge. The City of Cambridge Public Safety Information Technology Department has a collaborative team culture offering potential to work on varied and challenging technical projects. The Enterprise Application Specialist researches and analyzes application issues, recommends the best course of action for resolving issues, and carries out associated tasks that support management decisions, the City's mission, and the best interest of end-users. The person chosen for this role will be involved in installing and configuring applications based on the needs of users. They also support the databases used by these applications. We are looking for technical experience and specialization in doing this hands-on work while at the same time being flexible to work on different applications, not just one.
+Provide day-to-day support including analysis, debugging and maintenance for large scale enterprise applications utilized by Public Safety.
+Provide analysis, design, testing, debugging, maintenance, and documentation for complex enterprise applications. This requires in-depth technical expertise across multiple platforms, operating systems, and tools, and of the entire enterprise landscape. Understanding of various disciplines and technologies, such as web, directory services, directory synchronization, security, databases, networking, infrastructure, and application development is key.
+Oversee projects and interact with other departments to ensure on time completion.
+Provide technical guidance and advice to co-workers and others as a high value technical resource.
+Document processes and procedures of implemented changes.
+In-depth understanding of the configuration and usage of complex enterprise applications.
+Ensure applications and systems are maintained, secure and current.
+Ensure applications are proactively monitored to alert if issues arise
+Develop, establish, and maintain positive and influential relationships with managers, peers, and business unit customers.
+May perform other duties as required.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2569,Human Service Programs,"ESOL Teachers for Adult Education Classes (ESOL Literacy through Intermediate ESOL), Part-Time, Community Learning Center (CLC)",K035,FALSE,NA,5,19.5,2022-03-29,NA,NA,29.630000000000003,"One year of experience teaching ESOL
 Knowledge of methods and materials used in ESOL instruction
 Sensitivity to the needs of the adult learner population
@@ -1145,6 +1199,27 @@ Participate in trainings and workgroups for planning and implementing programs, 
 May assist with special projects and coordinate daily task of unit.
 Other duties as required for the good of the Library.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
+2857,Libraries,"Library Clerk (Multiple Positions), Main Library and 6 branches",L422,FALSE,"CPLSA, Local 4928",15,19,2022-06-14,NA,22,26.02,"High school diploma or high school equivalency required. A bachelor's degree or coursework beyond high school is desirable. Fluency in a language in addition to English is desirable. In exceptional instances, specialized education, training and/or experience may be substituted for part or all of the required elements. 
+Required Knowledge, Skills, and Abilities:
+Knowledge and understanding of the Library's mission,vision,values, and strategic priorities.
+Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
+Strong customer service skills and commitment to public service.
+Ability to work with a diverse population in an urban setting.
+Effective communication and interpersonal skills and a positive attitude
+Sound judgment and problem-solving skills, including ability to handle unexpected situations.
+Strong teamwork skills, including flexibility to fill in during scheduling emergencies and vacation periods.
+Knowledge of current technology and technological trends.
+Ability to operate computers, equipment, software, and systems.","Under minimal supervision, provides outstanding customer service to diverse patrons of all ages and performs circulation, reader's advisory and clerical duties in all areas of Library. Duties include but are not limited to the following:
+Delivers exceptional and engaging customer service to the public.
+Maintains orderliness and neatness in the library. Processes deliveries; merchandizes and shelves materials.
+Performs circulation and patron account management duties (e.g., checkouts, check-ins, account inquiries, reserves, renewals, fine assessment and collection, patron registration).
+Assistspatronsin locating books andinformation, and using a wide range of technologies (e.g., desktop computers, laptops, e-readers, tablets, scanners, emerging STEAM technologies,Wi-Fihotspots), including basic troubleshooting and maintenance.
+Monitors public areas of library.
+Communicates and applies library policies and procedures; addresses and resolves patron issues, referring to other team members as needed.
+Promotes library servicesand mayparticipate inoccasionaloutreachand programming activities, including setting up and operating audiovisual and STEAM equipment.
+Participates in trainings and workgroups for planning and implementing projects, programs, and initiatives.
+Other duties as required for the good of the Library.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. ",NA,wage,TRUE
 2755,Human Service Programs,"Lifeguard, Division of Recreation",X831,FALSE,NA,0,19.5,2022-02-09,NA,20,22,"Current American Red Cross Certificates in Lifeguarding and CPR/FPR. Must be at least 16 years old, and able to pass swim test administered by department. Ability to react calmly and effectively in emergency situations, follow instructions and communicate effectively with the public required.
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies. ","Supervises the activities of swimmers by enforcing pool safety rules and regulations
 Teaches Swim lessons as needed at both the indoor War Memorial pools and our outdoor pool in the summer (WSI certification within 12 months of hire preferred)
@@ -1414,6 +1489,31 @@ Reasonable accommodations may be made to enable individuals with disabilities to
 Candidates must pass an extensive screening process including:
 Interviews; drug testing; pre-employment medical and psychological examinations; physical abilities and fitness standards tests; extensive criminal background check including driving history; and, successful performance during the Cadet training program (both academic and physical in nature).
 Cadets shall not carry firearms, nor have any power of arrest other than that of an ordinary citizen.",wage,TRUE
+2859,Human Service Programs,Preschool Director/Teacher,M855-705,FALSE,NA,NA,40,2022-06-15,2022-07-06,58130,69320,"Bachelor's degree required.
+EEC Preschool Lead Teacher/Director qualified. 
+Strong organizational, supervisory, curriculum and communication skills.
+Strong working knowledge of NAEYC, EEC, and QRIS guidelines for quality programming. 
+Previous experience working with children with special needs preferred.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","Overall on-site responsibility for the smooth function of one quality preschool classroom serving 17 children - ages 2.9 to 5. Specific duties include but are not limited to the following: 
+Support and implement the Childcare and Family Support division's educational philosophy around child-center play based curriculum which enhances the social, physical, and intellectual development of children enrolled in the program while engaging their families as partners.
+Provide leadership for a preschool teaching team in the following key areas: curriculum, classroom management, behavior management, child assessments, and family involvement. In each of these areas, set clear goals and expectations that are clearly communicated to staff.
+Lead, supervise, and develop staff comprised of one Lead Teacher and two Teachers in a manner that builds a cohesive teaching team. Provide supervision of substitute teachers, interns, and other staff members who may be temporarily in the program. Provide monthly supervision and observations to all teaching staff. Support staff by modeling desired behavior and providing clear feedback to help staff meet modeled behavior. Provide written annual evaluations for all staff that sets performance goals for the coming year.
+Teach in the classroom as part of coverage to meet EEC regulations and to model and support staff in working with children.
+Design and arrange classroom space, in accordance with EEC, NAEYC and QRIS criteria which allow for a large variety of activities that promote children's growing independence in using classroom resources and materials.
+Establish clear and age-appropriate behavioral expectations for the group and each child that sets the tone for the classrooms. Ensure that staff provides nurturing and socially responsive care to all children.
+Identify children who may benefit from additional services and work with Preschool Manager to communicate observations to families and coordinate referrals to third parties as needed. Attend IEP meetings and follow-through to achieve objectives and accommodations that specialists have written into the child's plan.
+Organize the assessment of children's developmental progress using the COR Advantage assessment module. Ensure quality assessments are completed in timely fashion and shared with families at conferences. Use classroom profiles to modify or adapt curriculum to support children's development across all domains.
+Develop annual parent engagement plan that encompasses parent orientation, update on children's daily experiences, communication about curriculum, weekly home reading program, 3 conferences per year, regular newsletters, and 3 family education workshops/year. Foster family involvement and leadership in program through a Family Council.
+Always ensure the safety of enrolled children whether in or out of the classrooms. Develop and maintain emergency plan for program and maintain logs for fire drills and ""code blue"" monthly.
+Plan and coordinate safe and developmentally appropriate field trips that connect curriculum topics to world outside the classrooms.
+Complete annual NAEYC reports and prepare for NAEYC accreditation visits as well as bi-annual EEC licensing visits. Using data on program quality, create an annual continuous quality improvement plan (CQIP) to submit to the Preschool Manager.
+Work in conjunction with the Enrollment Coordinator to support the enrollment of children through the yearly DHSP Preschool Lottery. Conduct parent tours and answer questions about all DHSP preschool programs.
+Coordinate all administrative aspects of the program. According to department and state guidelines, maintain and oversee program records: children's files, daily attendance sheets, timesheets, weekly food orders, menu plans, parent meeting minutes, and various required logs.
+Will actively engage in and support the Department's Race and Equity Initiative.
+Initiate good relationship with host public school personnel (custodians, principal, and teachers) as well as other DHSP after-school program staff regarding use and maintenance of facility.
+Participate in all program-related meetings such as: individual supervision meetings with Preschool Manager, Teacher/Director meetings, meeting with program consultants and with specialists serving children in the classroom.
+Maintain professional knowledge through participation in in-service training workshops as well as meeting educational requirements established by EEC, NAEYC, QRIS, and the City of Cambridge.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,TRUE
 2762,Human Service Programs,Preschool Teacher (2 positions),"D446-704, D446-709",FALSE,Local 1596 (United Auto Worker,NA,40,2022-05-11,NA,20.62,23.89,"Must meet or exceed EEC regulations for preschool teacher and be at least 21 years of age.
 Minimum of associate degree; BA preferred
 At least three years' experience in teaching, including 9 months of supervised experience.
@@ -1823,6 +1923,37 @@ Developing materials to communicate information about zoning and development to 
 Organizing and filing notices for Planning Board public hearings
 Managing digital data documentation of special permit projects
 Additional projects may be identified based on the applicant's skills and interests and the division's needs.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+2858,Inspectional Services Department,Zoning and Building Associate,I248-001,TRUE,Area Trades Council,NA,37.5,2022-06-15,2022-07-13,30.610000000000003,38.06,"Bachelor's degree in architecture, urban planning, legal studies or related field, or equivalent combination of education, training, and experience, and at least 2 years related work experience, preferably with a municipal zoning entity.
+ Experience with the interpretation and application of zoning laws, zoning overlay districts and an understanding of current municipal issues and trends
+Ability to read and comprehend building plans and property site plans
+Superior customer service skills, excellent written and oral communication skills, excellent organizational and time management skills; strong computer skills including demonstrated proficiency with essential software (Microsoft Office Suite, Zoom, Adobe InDesign)
+Ability to communicate with a diverse range of Department staff, other City employees, and members of the public in a courteous and professional manner
+Demonstrated ability to manage multiple responsibilities, tasks, and interactions while remaining organized in a fast-paced office environment
+Ability to learn new regulations, new technologies and systems, new software
+Ability to set priorities and to work independently and efficiently to manage individual responsibilities, as well as work collaboratively in a team environment
+Ability to manage multiple responsibilities, tasks, and interactions in a fast-paced office environment while remaining attentive to accuracy of work
+Preferred:
+Knowledge of City of Cambridge Zoning Ordinance
+Experience with permitting software (Energov and Viewpoint)
+Experience with property research, data aggregation and analysis, including related software (Python, ArcGIS, QGIS)
+Knowledge of the Cambridge community
+Proficiency in Mandarin, Portuguese, or Spanish","The Inspectional Services Department is responsible for implementation of the State Building Code and City of Cambridge Zoning Ordinance. Under the general supervision of the Commissioner/lnspectional Services and Assistant Commissioner/lnspectional Services, the selected candidate should be a self-motivated, detail-oriented professional who will provide building-related services to Cambridge residents and assist the department's mission to implement zoning and building codes. Specific duties include but are not limited to the following:
+Respond to public inquiries about the Cambridge Zoning Ordinance and explain the zoning ordinance to residents and design professionals
+Review building plans and permit applications for conformance with the Cambridge Zoning
+Ordinance
+Assist with the processing of building permit applications as assigned by supervisor
+Conduct regular field investigation and measurements to assess conformance of construction projects with approved plans and the Cambridge Zoning Ordinance
+Answer questions from the public regarding permitting processes
+Compile, report, and analyze data on existing and pending permits
+Research property history and code history as assigned by supervisor
+Investigate and respond to complaints related to Cambridge Zoning Ordinance compliance
+Assist with the creation of instructive materials for regulations, ordinances, and business processes under the department's purview
+Assist with general public counter and record room inquiries
+Organize departmental digital and paper files and archives as needed
+Assist with special projects in the department and other duties as assigned by supervisor
+Attend Board of Zoning Appeal evening meetings
+Performs related duties as required
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
 2809,Human Service Programs,"Assistant Director, Camp Rainbow (Summer), Division of Recreation",X816,FALSE,NA,NA,37.5,2022-03-31,NA,24,25,"Minimum of 3 years' experience supervising, administering, and leading Special Needs and/or Out-of School Time programming with participants ages 6-21 preferred. 
 Strong communication and interpersonal skills.
@@ -3953,7 +4084,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
