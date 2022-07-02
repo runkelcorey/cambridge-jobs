@@ -23,8 +23,11 @@ server <- function(input, output) {
     select(department, title, posted, due, open, hours_max, pay_min, pay_max, type, requirements, responsibilities) %>%
     rename("max hours" = hours_max, "min salary" = pay_min, "max salary" = pay_max) %>%
     datatable(filter = "top",
+              extensions = 'Buttons',
               options = list(
                 order = list(3, "desc"),
+                dom = 'Bfrtip',
+                buttons = c('copy', 'csv'),
                 columnDefs = list(list(
                 targets = c(10:11),
                 render = JS(
@@ -36,7 +39,7 @@ server <- function(input, output) {
               ))), escape = FALSE) %>%
     formatCurrency(digits = 0, columns = c("min salary", "max salary")) %>%
     formatDate(columns = c("posted", "due"), method = "toLocaleDateString") %>%
-    renderDT()
+    renderDT(server = FALSE)
 }
 
 shinyApp(ui = ui, server = server)
