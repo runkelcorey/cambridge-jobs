@@ -20,13 +20,13 @@ server <- function(input, output) {
            type = as.factor(type))
   
   output$listings <- data %>%
-    select(department, title, posted, due, hours_max, pay_min, pay_max, type, requirements, responsibilities) %>%
+    select(department, title, posted, due, open, hours_max, pay_min, pay_max, type, requirements, responsibilities) %>%
     rename("max hours" = hours_max, "min salary" = pay_min, "max salary" = pay_max) %>%
     datatable(filter = "top",
               options = list(
                 order = list(3, "desc"),
                 columnDefs = list(list(
-                targets = c(9:10),
+                targets = c(10:11),
                 render = JS(
                   "function(data, type, row, meta) {",
                   "return type === 'display' && data.length > 30 ?",
