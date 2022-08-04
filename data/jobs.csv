@@ -1,4 +1,20 @@
 id,department,title,code,civil,union,hours_min,hours_max,posted,due,pay_min,pay_max,requirements,responsibilities,preferred,type,open
+2901,Community Development Department,Active Transportation Coordinator,M588-738,FALSE,NA,NA,37.5,2022-08-03,2022-08-24,65545,91137,"The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+Education and Experience
+Minimum of four (4) years of related experience and a related Bachelor's degree. An Associate's degree with six (6) years of related experience or a Master's degree with two (2) years of experience also acceptable. Specific required experience includes:
+Experience teaching youth of varied ages, from 2nd to 12th grades, as well as adults.
+Experience engaging meaningfully with a diverse range of stakeholders; value team-teaching methods.
+Experience riding in urban areas; enjoy riding a bicycle and able to ride for work.
+Technical experience should include reading plans and dimensions, sketching plans, maintaining GIS layers of bike parking and other data.
+Knowledge, Skills & Abilities
+Strong knowledge of bicycle maintenance and repair.
+Comfortable leading group rides, especially with youth; certified, or be willing to become certified, by the League of American Bicyclists (League Cycling Instructor)
+Reliable, punctual, and strong work ethic. Ability to exercise good judgment and focus on details.
+Positive, professional attitude and capacity to adapt quickly.
+Valid driver's license with good driving record. The ability to drive a van.
+Preferred:
+Transportation Planning experience.
+Proficiency in one or more other languages, such as Spanish, Amharic, Bangla, Portuguese, Haitian-Creole, and Arabic is beneficial.",NA,NA,salary,TRUE
 2710,Human Service Programs,"Administrative Assistant, Community Learning Center",X259,FALSE,NA,NA,19.5,2021-12-08,NA,NA,18.87,"Strong organizational and technologyskills
 Excellent communication skills
 Sensitivity to the needs of the adult learner population
@@ -15,7 +31,7 @@ Support collaborations both with City andexternal collaborators
 Support the work of the Friends of the CLC
 Participate in staff development activities
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
-2898,Human Service Programs,"Afterschool Head Teacher (2 positions), Childcare & Family Support Services","D447-705, D447-706",FALSE,Local 1596,NA,36,2022-07-27,NA,24.759999999999998,28.97,"Be 21 years of age or older. Minimum of bachelor's degree with 6 months half-time experience, associate's degree and 9 months half-time experience, or HS Diploma/GED and one year of related experience. Be first Aid and CPR trained within 6 months of hire. Additional training and experience preferable.","Under the supervision of the Afterschool Manager, the Head Teacher will:
+2898,Human Service Programs,"Afterschool Head Teacher (2 positions), Childcare & Family Support Services","D447-705, D447-706",FALSE,Local 1596,NA,36,2022-07-27,NA,24.759999999999998,28.97,"Be 21 years of age or older. Minimum of bachelor's degree with 6 months half-time experience, associate's degree and 9 months half-time experience, or HS Diploma/GED and one year of related experience. Be first Aid and CPR trained within 6 months of hire. Additional training and experience preferable.","ESSENTIAL DUTIES AND RESPONSIBILITIES: Under the supervision of the Afterschool Manager, the Head Teacher will:
 Design a developmentally sound curriculum to enhance the social, physical, academic, intellectual wellbeing of children in his/her care. Curriculum should emphasize the development of social skills, increase children's self-esteem, recognize the children's interests, and build a sense of community within the group.
 Plan and implement activities to achieve curriculum goals in an informal, secure, and loving atmosphere appropriate to after-school hours.
 Design and arrange classroom space to allow for a variety of activities that promote children's independence in using the classroom.
@@ -265,24 +281,7 @@ Strong problem solving and mediation abilities
 Ability to create and maintain strong community collaborations
 High ethical standards and personal integrity
 Commitment to anti-racism, diversity, equity, and inclusion. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-Knowledge of Cambridge preferred","Cambridge is a unique and growing urban community of 120,000 residents, making it the fourth largest city in Massachusetts. Our community is diverse, with 34% of residents identifying as people of color and 34% of residents' home language is a language other than English. The city stands out as a hub of innovation and is home to Harvard University, Massachusetts Institute of Technology (MIT), and an increasing number of biotechs and high-tech start-ups. The biotech corridor in Kendall Square has been called ""the most innovative square mile on Earth,"" and has led the country in everything from the invention of rubber hoses to the development of Covid-19 vaccines.
-Cambridge's City government has an annual operating budget of $800M and over 1,600 full-time employees. Cambridge has access to significant resources but is confronting similar challenges as other urban centers - rising housing costs, climate change, sustainable transportation, homelessness, and persistent economic and racial inequities. The City Council and City leadership are committed to being a leader on issues of equity and sustainability and creating a city that works for everyone.
-As Cambridge's Chief Executive Officer, the City Manager supervises and manages all City Departments, recommends policies and programs to the City Council, and implements City Council legislation. The City Manager's Office collaborates with the City Council and city departments on the shared mission to serve the Cambridge community and build a better city for all.
-The Chief of Staff to the City Manager will be a trusted advisor and member of the senior cabinet responsible for coordinating alignment between the City Council, city leadership, and community leaders and advocates. The ideal candidate will build strong and trusted relationships across diverse perspectives and is both an empathetic listener and persuasive communicator. The Chief of Staff will be skilled at navigating local political dynamics, an intensely curious learner who can understand complex policy, and a leader with a city-wide view of how to do the most good. The Chief of Staff will also be responsible for coordinating policy and constituent services across the Executive Department, coordinating board and commission appointments, and coordinating agenda and preparations for the City Council. 
-Work closely with the City Manager to coordinate relationships across the City Council, community leaders and residents, and city leadership
-Establish organizing structures and norms to ensure that City Council requests are prioritized, appropriately scoped, and communicated; coordinating across city leadership team to ensure alignment
-Serves as the key liaison between the Mayor's Office, the City Council, and the City Manager.
-Lead coordination of the preparations of the City Manager's agenda for City Council meetings, including reviewing materials and meeting with City department staff and other stakeholders to respond to City Council policy orders.
-Advise the City Manager on operational and planning activities, their timelines, and implications.
-Lead agenda setting and communications from the City Manager's office, including drafting key memos and talking points
-Participate with the City Manager and other senior staff in strategic planning, policy development and problem resolution of complex issues and needs, particularly those relating to the Cambridge community
-Assure coordination of activities with other stakeholders, assist in problem-solving, and contribute to improvement efforts
-Coordinate board and commission appointments in collaboration with relevant city leadership
-Oversee constituent services and community relations function within the City Manager's office
-Supervises staff as required
-Represent the City Manager at meetings, conferences, etc.
-Perform related duties as required
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
+Knowledge of Cambridge preferred",NA,NA,salary,TRUE
 2896,City Manager's Office,Chief of Strategy and Implementation,M544-701,FALSE,NA,NA,37.5,2022-07-26,2022-08-25,160000,200000,"Experience and Education
 5+ years of increasing management responsibility in a large, complex organization or management consulting
 Experience managing teams in comprehensive assignments
@@ -296,20 +295,7 @@ Excellent communication, presentation, and analytical skills with high attention
 Deep sense of humility, curiosity, and learning-orientation
 High ethical standards and personal integrity
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies
-Knowledge of Cambridge preferred","Cambridge is a unique and growing urban community of 120,000 residents, making it the fourth largest city in Massachusetts. Our community is diverse, with 34% of residents identifying as people of color and 34% of residents' home language is a language other than English. The city stands out as a hub of innovation and is home to Harvard University, Massachusetts Institute of Technology (MIT), and an increasing number of biotechs and high-tech start-ups. The biotech corridor in Kendall Square has been called ""the most innovative square mile on Earth,"" and has led the country in everything from the invention of rubber hoses to the development of Covid-19 vaccines.
-Cambridge's City government has an annual operating budget of $800M and over 1,600 full-time employees. Cambridge has access to significant resources but is confronting similar challenges as other urban centers - rising housing costs, climate change, sustainable transportation, homelessness, and persistent economic and racial inequities. The City Council and City leadership are committed to being a leader on issues of equity and sustainability and creating a city that works for everyone.
-As Cambridge's Chief Executive Officer, the City Manager supervises and manages all City Departments, recommends policies and programs to the City Council, and implements City Council legislation. The City Manager's Office collaborates with the City Council and city departments on the shared mission to serve the Cambridge community and build a better city for all.
-The Chief of Strategy and Implementation is a new position that will report directly to the City Manager. This position will be responsible for the organization and execution of key strategic initiatives across the city. The ideal candidate will be a curious and humble problem solver who can establish trusted and collaborative relationships with senior leaders and stakeholders, generating productive discussion, input, and alignment. The Chief of Strategy and Implementation commands strong analytic skills, is capable of using data to break down issues and illustrate solutions, and is an effective and efficient communicator. They will have the opportunity to build a high performing public sector Project Management Office / Results Delivery Office function. The Chief of Strategy and Implementation will be a member of the senior cabinet and will be accountable for the success of the city's strategic agenda. 
-Coordinate key strategic initiatives across city departments, including the creation and management of high performing cross-functional teams, coordination of research and data analytics, and the development and implementation of solutions
-Communicate with all stakeholders about the status of major milestones, potential project risk or delays, and proposed mitigation strategies and contingency plans
-Provide support and direction to initiative teams and conduct regular status meetings with key stakeholders to review project activities.
-Work with city leadership to ensure appropriate resourcing for initiatives, using internal resources and external partnerships/vendors
-Employ best practices around process Improvement, team management and communications.
-Implement and manage project dashboards, status reporting, and communication materials for key governance and strategy meetings
-Establish an office of strategy and implementation within City government
-Supervise staff as assigned
-Perform related duties as required
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
+Knowledge of Cambridge preferred",NA,NA,salary,TRUE
 2625,Cambridge Arts,Community Arts Administrator,M516-701,FALSE,NA,NA,37.5,2021-08-31,2021-10-07,52438,64033,"Minimum of two years of arts administrative experience, preferably in areas related to performing arts and/or community-based arts programing
 Demonstrated success in developing and implementing community-based arts programming
 Excellent written and verbal communication skills, attention to detail, ability to negotiate contracts
@@ -969,44 +955,6 @@ Reasonable accommodations may be made to enable individuals with disabilities to
 184,Police Department,Intermittent Traffic Supervisors/School Crossing Guards,#X468,FALSE,NA,NA,10,2022-03-01,NA,NA,17.19,"Ability to communicate effectively with command staff members, City Officials, employees, and residents. Ability to work a minimum of 10 hours a week. One(1) hour in the morning and one (1) hour in the afternoon. ","Perform assigned school crossings throughout the City of Cambridge during the school year (September thru June)
 Duties include stopping traffic for the purposes of crossing children safely across the street, to and from school.
 Are you retired? In the middle of getting your degree? Looking to pick up some part-time work? Refer to brief YouTube video below of our school crossing guards in action. https://youtu.be/m9532O1pwkg ",NA,wage,TRUE
-2886,Human Rights Commission,"Language Access Manager, Language Justice Division",M355-701,FALSE,NA,NA,37.5,2022-07-20,2022-08-03,72008,91877,"Education and Experience
-Bachelor's degree with at least 3-5 years of experience in project coordination, management, and/or operations.
-At least 1 year of experience in language justice-focused project work, preferably in a leadership capacity. 
-Strong community engagement and consensus-building experience, especially involving stakeholders from diverse backgrounds and with diverse interests and opinions; demonstrated ability to relate to the public and co-workers in a positive manner.
-Demonstrated commitment to equity, public service, and supporting marginalized communities or populations.
-Knowledge, Skills, and Abilities 
-Detailed knowledge of plain language writing and related communication strategies.
-Exceptional written, verbal, and editing skills; this includes the ability to communicate complex messages clearly and simply to a highly diverse staff and constituency.
-Demonstrated ability to work independently, set clear work plans and priorities, adapt and problem solve. 
-Strong interpersonal skills, with a focus on collaboration and teamwork.
-Excellent organizational and administrative skills.
-Proficiency in Word, Excel, and PowerPoint. 
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","The City of Cambridge is dedicated to providing meaningful and equitable access to City programs, services, and resources, and improving engagement, especially for underrepresented and underserved communities, including residents whose preferred language is not English. The Language Access Manager will spearhead the City's language justice work. Language justice is the right to communicate, to understand, and to be understood in the language(s) or method in which a person feels most comfortable.
-The Language Access Manager will be a new position and part of the newly established Language Justice Division, under the direction of the Executive Director of the Cambridge Human Rights Commission. The Language Access Manager will work directly with the Human Rights Commission and the Commission on Immigrant Rights and Citizenship and will serve as the City's central contact and support for expanding language justice. 
-This position will also work across City departments to build capacity, measure improvement, and support staff. Staff support will include, but is not limited to, coordinating translation and interpretation services. Initial duties will be informed by, and build from, the work of the City's Family Policy Council. 
-The City of Cambridge is committed to building and supporting a municipal workforce that reflects the diversity of the residents it serves and to maintaining a work environment where all employees can thrive. The City has a long-standing record of nondiscrimination in employment and providing equal opportunity without regard to race, color, sex, religion, creed, national origin, ancestry, sexual orientation, disability, veteran's status, marital status, or age.
-Develop and oversee a Citywide Language Access Plan, to support public-facing departments' expansion of language justice through translations, interpretation, and related means.
-Use baseline assessments of City departments' current work and language justice-related resources to develop department-specific language access plans.
-Increase cross-departmental coordination and collaboration to share best practices, common challenges, and other information for collective improvement.
-Research, implement, and administer systems to centralize translation and interpretation, expanding existing City systems where appropriate.
-Monitor the Language Justice Division budget, including American Rescue Plan Act (ARPA) funding and compliance and reporting responsibilities under ARPA.
-Coordinate interdepartmental expenditures and payments, track costs, and look for cost-saving opportunities or efficiencies.
-Manage contracts with vendors providing translation and interpretation services.
-Work with the Personnel Department to develop language access training resources and programs for new and existing City staff, and to explore enhanced opportunities for multilingual employees.
-Create and maintain centralized language access resources on internal City webpage, such as how-to guides, toolkits, videos, and one-pagers to educate City staff.
-Coordinate with the City's communications managers and community outreach workers to improve resident experience. 
-Develop a communications and education strategy to inform employees and residents about language access-related services and resources available to them, and to effectively share new information and resources as they become available.
-Create a process for collecting and responding to resident feedback regarding language access.
-Foster an environment of support and continuous improvement for City staff, by providing advice, technical assistance, feedback, and troubleshooting around language access issues; and help to build cultural competency.
-Consult with the Cambridge Commission for Persons with Disabilities on ways to improve digital accessibility and expand American Sign Language resources in conjunction with Language Access Manager's work.
-Represent the department and City at appropriate events as a speaker, presenter, or guest.
-Explore opportunities for future partnerships and resource sharing with Cambridge Public Schools, community providers and other external stakeholders.
-Stay up to date on the latest language access developments, best practices, and technologies.
-Related duties as assigned.
-Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.","Proficiency in languages other than English.
-Knowledge of the Cambridge community.
-Experience developing and/or analyzing language access legislation or policy.
-Familiarity with Adobe Acrobat, InDesign, and/or other publishing software.",salary,TRUE
 2899,Personnel Department,Learning and Development Intern,X323,FALSE,NA,0,19,2022-08-01,2022-08-25,20,23,"Skilled in Microsoft Office applications (Outlook, Word, Excel, Forms, and SharePoint) and willing to learn and implement new technologies
 Proven organizational skills, detail-oriented, and able to prioritize tasks
 Practiced written/verbal communication skills
@@ -1014,26 +962,7 @@ Comfortable communicating with customers and employees at all levels
 Ability to work independently and as part of a team
 Must be an effective multi-tasker and comfortable taking direction
 Proven experience with general office administrative and clerical tasks
-Commitment to anti-racism, diversity, equity, and inclusion. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies. ","The Personnel Department Learning and Development Team creates and delivers inclusive learning opportunities that:
-Embraces the diversity of our workforce
-Engages employees
-Inspires life-long learning
-Encourages the full potential of our employees
-Contributes to an inclusive and equitable workplace 
-ABOUT THE ROLE: The City of Cambridge Personnel Department is seeking a Learning and Development (L&D) Intern. The ideal candidate has demonstrated organization and time management skills and experience and skills using SharePoint and Microsoft Office applications (Outlook, Word, Excel, and Forms). 
-The L&D Intern will be: 
-Supporting the L&D Director with planning and implementing employee training
-Working with our learning partners across City departments
-Supporting our goals to cultivate a culture of inclusion through our learning programs and events
-The selected candidate will support our learning programs. Specific responsibilities include: 
-Coordinate the daily operations of the learning programs and individual training sessions
-Coordinate and analyze data collected from the programs
-Maintain documentation from programs' activities
-Schedule calls, meetings, and follow-up
-Create and maintain program content and page designs on SharePoint Communication Sites
-Help employees with the logistics of signing up for and attending programs and individual training sessions
-Additional projects may be identified based on the candidate's skills and interests, and the Department's needs
-Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the position. ","Analytical, research, and problem-solving skills
+Commitment to anti-racism, diversity, equity, and inclusion. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies. ",NA,"Analytical, research, and problem-solving skills
 Graphic design skills
 Interest in public service",wage,TRUE
 2867,LGBTQ+ Commission,LGBTQ+ Programming Leader,M353-701,FALSE,NA,NA,20,2022-06-28,2022-07-28,NA,20,"Education and Experience
@@ -1599,9 +1528,7 @@ Preferred:
 Experience with program outreach and marketing including use of web and social media
 Knowledge of the regional housing market and available affordable housing resources
 Knowledge of the Cambridge community
-Proficiency in Amharic, Haitian Creole, Portuguese and/or Spanish","CDD is the planning agency for the City of Cambridge. Encompassing the Housing, Economic Opportunity and Development, Community Planning, Zoning and Development, and Environmental and Transportation Planning divisions, CDD's mission is to foster a livable, sustainable, just, and equitable community. CDD engages and collaborates with community partners, other government agencies, and residents to make Cambridge a desirable place to live, work, learn, play, and innovate. The Housing Division works to promote and maintain the socioeconomic diversity of the city by managing and implementing the City's efforts to meet the housing needs of low-, and moderate-, and middle-income residents, and develops initiatives to preserve and expand the City's stock of affordable housing.
-Reporting to the Director of Housing, the Inclusionary Housing Senior Manager will manage the City's Inclusionary Rental Housing and Middle-Income Rental Housing programs through which the City offers access to more than 1,000 affordable units at more than 55 properties. The Senior Inclusionary Rental Housing Manager will manage a program team of 4 full-time staff. The Senior Inclusionary Rental Housing Manager will prepare for continuing growth while managing the multiple demands of the current program, working work closely with other CDD staff. The Senior Inclusionary Rental Housing Manager will interact regularly with housing applicants and tenants, private housing owners, developers and managers, housing case workers, housing advocates, and staff at the Cambridge Housing Authority and other housing authorities. 
-Primary responsibilities include:
+Proficiency in Amharic, Haitian Creole, Portuguese and/or Spanish","Primary responsibilities include:
 Managing, developing, implementing, and monitoring program policies, procedures, guidelines, controls, and workflow to ensure efficient operation of the rental program and work of the inclusionary rental housing team
 Actively managing 4 full-time program staff
 Ensuring consistency and timeliness of housing applicant eligibility reviews and income certification, and regular tenant eligibility recertifications in a high-volume environment
@@ -1905,6 +1832,44 @@ Assist with special projects in the department and other duties as assigned by s
 Attend Board of Zoning Appeal evening meetings
 Performs related duties as required
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+2886,Human Rights Commission,"Language Access Manager, Language Justice Division",M355-701,FALSE,NA,NA,37.5,2022-07-20,2022-08-03,72008,91877,"Education and Experience
+Bachelor's degree with at least 3-5 years of experience in project coordination, management, and/or operations.
+At least 1 year of experience in language justice-focused project work, preferably in a leadership capacity. 
+Strong community engagement and consensus-building experience, especially involving stakeholders from diverse backgrounds and with diverse interests and opinions; demonstrated ability to relate to the public and co-workers in a positive manner.
+Demonstrated commitment to equity, public service, and supporting marginalized communities or populations.
+Knowledge, Skills, and Abilities 
+Detailed knowledge of plain language writing and related communication strategies.
+Exceptional written, verbal, and editing skills; this includes the ability to communicate complex messages clearly and simply to a highly diverse staff and constituency.
+Demonstrated ability to work independently, set clear work plans and priorities, adapt and problem solve. 
+Strong interpersonal skills, with a focus on collaboration and teamwork.
+Excellent organizational and administrative skills.
+Proficiency in Word, Excel, and PowerPoint. 
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","The City of Cambridge is dedicated to providing meaningful and equitable access to City programs, services, and resources, and improving engagement, especially for underrepresented and underserved communities, including residents whose preferred language is not English. The Language Access Manager will spearhead the City's language justice work. Language justice is the right to communicate, to understand, and to be understood in the language(s) or method in which a person feels most comfortable.
+The Language Access Manager will be a new position and part of the newly established Language Justice Division, under the direction of the Executive Director of the Cambridge Human Rights Commission. The Language Access Manager will work directly with the Human Rights Commission and the Commission on Immigrant Rights and Citizenship and will serve as the City's central contact and support for expanding language justice. 
+This position will also work across City departments to build capacity, measure improvement, and support staff. Staff support will include, but is not limited to, coordinating translation and interpretation services. Initial duties will be informed by, and build from, the work of the City's Family Policy Council. 
+The City of Cambridge is committed to building and supporting a municipal workforce that reflects the diversity of the residents it serves and to maintaining a work environment where all employees can thrive. The City has a long-standing record of nondiscrimination in employment and providing equal opportunity without regard to race, color, sex, religion, creed, national origin, ancestry, sexual orientation, disability, veteran's status, marital status, or age.
+Develop and oversee a Citywide Language Access Plan, to support public-facing departments' expansion of language justice through translations, interpretation, and related means.
+Use baseline assessments of City departments' current work and language justice-related resources to develop department-specific language access plans.
+Increase cross-departmental coordination and collaboration to share best practices, common challenges, and other information for collective improvement.
+Research, implement, and administer systems to centralize translation and interpretation, expanding existing City systems where appropriate.
+Monitor the Language Justice Division budget, including American Rescue Plan Act (ARPA) funding and compliance and reporting responsibilities under ARPA.
+Coordinate interdepartmental expenditures and payments, track costs, and look for cost-saving opportunities or efficiencies.
+Manage contracts with vendors providing translation and interpretation services.
+Work with the Personnel Department to develop language access training resources and programs for new and existing City staff, and to explore enhanced opportunities for multilingual employees.
+Create and maintain centralized language access resources on internal City webpage, such as how-to guides, toolkits, videos, and one-pagers to educate City staff.
+Coordinate with the City's communications managers and community outreach workers to improve resident experience. 
+Develop a communications and education strategy to inform employees and residents about language access-related services and resources available to them, and to effectively share new information and resources as they become available.
+Create a process for collecting and responding to resident feedback regarding language access.
+Foster an environment of support and continuous improvement for City staff, by providing advice, technical assistance, feedback, and troubleshooting around language access issues; and help to build cultural competency.
+Consult with the Cambridge Commission for Persons with Disabilities on ways to improve digital accessibility and expand American Sign Language resources in conjunction with Language Access Manager's work.
+Represent the department and City at appropriate events as a speaker, presenter, or guest.
+Explore opportunities for future partnerships and resource sharing with Cambridge Public Schools, community providers and other external stakeholders.
+Stay up to date on the latest language access developments, best practices, and technologies.
+Related duties as assigned.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.","Proficiency in languages other than English.
+Knowledge of the Cambridge community.
+Experience developing and/or analyzing language access legislation or policy.
+Familiarity with Adobe Acrobat, InDesign, and/or other publishing software.",salary,FALSE
 2814,Community Development Department,Community Planning Intern,X202,FALSE,NA,0,19,2022-04-12,2022-05-03,NA,17.19,"Applicants for this position must be a current or recent undergraduate or graduate student in urban planning or related fields
 Strong organizational and time management skills
 Ability to communicate effectively, both orally and in written form, with external partners including planning and design consultants, and the public
@@ -2382,7 +2347,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -4873,7 +4838,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
