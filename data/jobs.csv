@@ -1,5 +1,5 @@
 id,department,title,code,civil,union,hours_min,hours_max,posted,due,pay_min,pay_max,requirements,responsibilities,preferred,type,open
-2901,Community Development Department,Active Transportation Coordinator,M588-738,FALSE,NA,NA,37.5,2022-08-03,2022-08-24,65545,91137,"The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+2901,Community Development Department,Active Transportation Coordinator,M588-738,FALSE,NA,NA,37.5,2022-08-03,2022-09-01,65545,91137,"The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
 Education and Experience
 Minimum of four (4) years of related experience and a related Bachelor's degree. An Associate's degree with six (6) years of related experience or a Master's degree with two (2) years of experience also acceptable. Specific required experience includes:
 Experience teaching youth of varied ages, from 2nd to 12th grades, as well as adults.
@@ -1151,43 +1151,6 @@ schedule appointments with customers, prepares reports
 verify exception reports, account numbers, MTU serial numbers and meter serial numbers for accuracy
 keep records of materials and equipment including meter inventory and meter test results
 May perform other related work as assigned. Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. ",NA,wage,TRUE
-2659,Emergency Communications Department,Network Manager,M701-702,FALSE,NA,NA,37.5,2021-11-17,2021-12-15,115289,126582,"Bachelor's degree in Information Technology or equivalent combination of education, experience, and training required. Master's in Computer Science preferred.
-At least three (3) years of experience performing network administration or network engineering duties in a mid to large organization.
-High Degree of proficiency implementing LAN/WAN switches routers.
-Experience with providing 7x24x365 Network Support.
-Experience with LAN/WAN optimization and monitoring tools.
-Excellent Communication and Organizational Skills
-Self-Motivated, ability to work with minimal supervision.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-KNOWLEDGE, SKILLS, AND ABILITIES:
-Knowledge and experience working with various technologies including, but not limited to:
-Hands-on: switches (Juniper), routers, firewalls (Palo Alto), and load balancers.
-Network Engineer design, installation, management, and monitoring including wireless.
-Networking technologies and protocols, not limited to RADIUS authentication, disaster recovery planning, high availability design and implementation, QoS.
-Installation of network monitoring tools (WhatsUp Gold) and automated alert notifications.
-Microsoft-based LAN/WAN network services (DHCP, DNS, RADIUS, Active Directory)
-Data circuit sizing and procurement
-Microsoft 365 & Azure Virtualization & Cloud technologies
-Supporting VoIP
-Contract negotiation and vendor management
-Familiar with current technology and industry trends
-Ability to work flexible schedule to accommodate maintenance windows during non-peak hours.
-Ability to select and apply industry standard best practices.
-Experience setting up and supporting VPN Connectivity to Azure & ExpressRoute to Azure desirable
-Familiar with Azure: VNET Peering, NSG administration, Load Balancer, App Gateway & Traffic Manager desirable
-Technical certifications desirable: Juniper, Palo Alto, Azure
-Security certificates desirable: ISC2 CISSP, ISACA CISM and EC-Council CEH.
-ITIL and ITSM certifications desirable","The Network Manager is responsible for the Information Security and Infrastructure Management for Public Safety IT (PSIT). It involves the following: network support, service management, incident management, outage reporting, configuration management, and change management, as they apply to the city’s public safety system infrastructure. The incumbent is also responsible for making independent decisions within the context of representative duties and primary job focus and scope. Working at the direction of the Assistant Director of Public Safety Information Technology and/or Director of Emergency Communications Department (ECD) and 911 all supervisory positions are responsible for overseeing a team of one or more information technology professionals. Supervisors use judgment in identifying issues, analyzing proposed solutions, and developing recommendations which support management decisions, the City’s mission, and the best interest of end users.
-Ensures best practices and security requirements are employed for the configuration of all network related technology and services under their supervision.
-Responsible for performing and overseeing network: design, implementation, engineering, virtualization, and support services for on premise and cloud data centers.
-Ensuring vendor contracts and statements of work include appropriate scope, SLAs, and have adequate language to protect the interests of the Police, Fire, and Emergency Communications Departments.
-Responsible for images, configurations, and firmware upgrades for all network devices.
-Participate in the planning, coordinating and setup for special events, command posts and significant emergencies within the City and with other regional cities and towns.
-Primary supervisory responsibilities include direct report motivation, coaching, creation of individual development plans, and accountability for the ongoing success of projects and the service lifecycle.
-Understand and adhere to City and PSIT standards, policies, and procedures.
-Ensure successful design, planning, and installation including network diagrams and monitoring.
-Additional duties as assigned. 
-Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,TRUE
 2881,Human Service Programs,"Out of School Time Learning Institute Coordinator, Agenda for Children Out of School Time (AFCOST)",M307-701,FALSE,NA,NA,35,2022-07-19,2022-08-16,59383,72853,"Bachelor's degree with 5 years of experience in related field or 8+ years' work experience in professional development and/or youth development.
 Demonstrated understanding of professional development best practices and communications strategies.
 Demonstrated ability to work with upper-level management and manage consultant relationships.
@@ -1280,34 +1243,6 @@ Assist in maintaining files within the Office of Planning, Budget & Personnel in
 Assist employees with payroll matters and questions relating to benefits and available resources. Provide a high level of customer service to employees in person or over the phone regarding inquiries about human resources and other matters related to the Office of Planning, Budget & Personnel. Act as a liaison with other City Departments such as Payroll, Benefits, Auditing, and Finance.
 Assist in human resources-related and budget-related projects in support of the Office of Planning, Budget & Personnel
 Perform other administrative duties as assigned.",NA,wage,TRUE
-2870,Human Service Programs,Personnel Administrator,M768-701,FALSE,NA,NA,37.5,2022-06-29,2022-07-28,84540,106813,"Education and Experience
-Five years personnel/payroll experience and a bachelor's degree in related field or equivalent combination of education, training, and experience.
-Experience working within a diverse workforce.
-Knowledge, Skills, and Abilities
-Excellent communication and interpersonal skills with solid customer service orientation.
-Strong organizational skills.
-Proficiency in personal computer skills such as Microsoft Office Suite.
-Ability to handle confidential information discreetly.
-Proven ability to manage shifting priorities, multiple projects and meet multiple deadlines.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-Knowledge of People Soft HR.
-Supervisory experience preferred. ","Reporting to and working collaboratively with the Assistant Director for Administration and other team members, the Personnel Administrator is responsible for the day-to-day management of the personnel/payroll system for the Department of Human Service Programs (DHSP).
-DHSP creates and coordinates services that enhance the quality of life for Cambridge residents. Driven by the needs of residents, the department's extensive services and programs touch almost every sector in the city: from newborns to senior citizens, from school-aged children to homeless families, from non-profit organizations to local employers. DHSP employs a diverse workforce and works with the Community Engagement Team and community partners to bring information about services to the community and to inform the Department about the community's needs. DHSP focuses on equitably serving Cambridge's diverse community and increasing access to programs and services, particularly to low-income individuals and families. 
-The City of Cambridge is committed to building and supporting a municipal workforce that reflects the diversity of the residents it serves and to maintaining a work environment where all employees can thrive. The city has a long-standing record of nondiscrimination in employment and providing equal opportunity without regard to race, color, sex, religion, creed, national origin, ancestry, sexual orientation, disability, veteran's status, marital status, or age. 
-Duties and responsibilities include but are not limited to the following:
-Oversee the inputting, editing and check distribution of a weekly $450,000 payroll.
-Process benefits, payroll, and personnel transactions for DHSP.
-Supervise and provide support to DHSP Personnel staff
-Review job descriptions, open vacancies, send jobs forward for posting.
-Oversee the receipt and distribution of resumes coming into the department, including internal bid forms.
-Provide Department overview and benefit orientation to all new full-time DHSP employees.
-Answer and explain City and Department Personnel policy questions to all employees.
-Review and process employee tuition assistance and book reimbursement requests for the Department.
-Complete appropriate Worker's Compensation forms and report employee accidents/injuries to the Worker's Compensation Specialist at City Hall.
-Work collaboratively with other City departments, including Personnel and Payroll.
-Participate in DHSP annual budget process.
-Actively engage and support the Department's Race and Equity Initiative.
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2825,Human Service Programs,"Planner/Contract Manager, Planning & Development",K493-703,FALSE,NA,NA,37.5,2022-04-26,2022-05-24,65419,79607,"At least two years' experience in some combination of contract management, human service planning or service delivery.
 Bachelor's degree in related field or 5 years relevant work experience required. Experience working with HUD a plus.
 Well organized and attentive to detail.
@@ -1875,7 +1810,72 @@ Assist with special projects in the department and other duties as assigned by s
 Attend Board of Zoning Appeal evening meetings
 Performs related duties as required
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
-2803,Equity & Inclusion,Project Assistant,M491-701,FALSE,NA,NA,25,2022-03-24,2022-04-21,21.17,26.31000000000001,"Education and Experience
+2659,Emergency Communications Department,Network Manager,M701-702,FALSE,NA,NA,37.5,2021-11-17,2021-12-15,115289,126582,"Bachelor's degree in Information Technology or equivalent combination of education, experience, and training required. Master's in Computer Science preferred.
+At least three (3) years of experience performing network administration or network engineering duties in a mid to large organization.
+High Degree of proficiency implementing LAN/WAN switches routers.
+Experience with providing 7x24x365 Network Support.
+Experience with LAN/WAN optimization and monitoring tools.
+Excellent Communication and Organizational Skills
+Self-Motivated, ability to work with minimal supervision.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+KNOWLEDGE, SKILLS, AND ABILITIES:
+Knowledge and experience working with various technologies including, but not limited to:
+Hands-on: switches (Juniper), routers, firewalls (Palo Alto), and load balancers.
+Network Engineer design, installation, management, and monitoring including wireless.
+Networking technologies and protocols, not limited to RADIUS authentication, disaster recovery planning, high availability design and implementation, QoS.
+Installation of network monitoring tools (WhatsUp Gold) and automated alert notifications.
+Microsoft-based LAN/WAN network services (DHCP, DNS, RADIUS, Active Directory)
+Data circuit sizing and procurement
+Microsoft 365 & Azure Virtualization & Cloud technologies
+Supporting VoIP
+Contract negotiation and vendor management
+Familiar with current technology and industry trends
+Ability to work flexible schedule to accommodate maintenance windows during non-peak hours.
+Ability to select and apply industry standard best practices.
+Experience setting up and supporting VPN Connectivity to Azure & ExpressRoute to Azure desirable
+Familiar with Azure: VNET Peering, NSG administration, Load Balancer, App Gateway & Traffic Manager desirable
+Technical certifications desirable: Juniper, Palo Alto, Azure
+Security certificates desirable: ISC2 CISSP, ISACA CISM and EC-Council CEH.
+ITIL and ITSM certifications desirable","The Network Manager is responsible for the Information Security and Infrastructure Management for Public Safety IT (PSIT). It involves the following: network support, service management, incident management, outage reporting, configuration management, and change management, as they apply to the city’s public safety system infrastructure. The incumbent is also responsible for making independent decisions within the context of representative duties and primary job focus and scope. Working at the direction of the Assistant Director of Public Safety Information Technology and/or Director of Emergency Communications Department (ECD) and 911 all supervisory positions are responsible for overseeing a team of one or more information technology professionals. Supervisors use judgment in identifying issues, analyzing proposed solutions, and developing recommendations which support management decisions, the City’s mission, and the best interest of end users.
+Ensures best practices and security requirements are employed for the configuration of all network related technology and services under their supervision.
+Responsible for performing and overseeing network: design, implementation, engineering, virtualization, and support services for on premise and cloud data centers.
+Ensuring vendor contracts and statements of work include appropriate scope, SLAs, and have adequate language to protect the interests of the Police, Fire, and Emergency Communications Departments.
+Responsible for images, configurations, and firmware upgrades for all network devices.
+Participate in the planning, coordinating and setup for special events, command posts and significant emergencies within the City and with other regional cities and towns.
+Primary supervisory responsibilities include direct report motivation, coaching, creation of individual development plans, and accountability for the ongoing success of projects and the service lifecycle.
+Understand and adhere to City and PSIT standards, policies, and procedures.
+Ensure successful design, planning, and installation including network diagrams and monitoring.
+Additional duties as assigned. 
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
+2870,Human Service Programs,Personnel Administrator,M768-701,FALSE,NA,NA,37.5,2022-06-29,2022-07-28,84540,106813,"Education and Experience
+Five years personnel/payroll experience and a bachelor's degree in related field or equivalent combination of education, training, and experience.
+Experience working within a diverse workforce.
+Knowledge, Skills, and Abilities
+Excellent communication and interpersonal skills with solid customer service orientation.
+Strong organizational skills.
+Proficiency in personal computer skills such as Microsoft Office Suite.
+Ability to handle confidential information discreetly.
+Proven ability to manage shifting priorities, multiple projects and meet multiple deadlines.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+Knowledge of People Soft HR.
+Supervisory experience preferred.","Reporting to and working collaboratively with the Assistant Director for Administration and other team members, the Personnel Administrator is responsible for the day-to-day management of the personnel/payroll system for the Department of Human Service Programs (DHSP).
+DHSP creates and coordinates services that enhance the quality of life for Cambridge residents. Driven by the needs of residents, the department's extensive services and programs touch almost every sector in the city: from newborns to senior citizens, from school-aged children to homeless families, from non-profit organizations to local employers. DHSP employs a diverse workforce and works with the Community Engagement Team and community partners to bring information about services to the community and to inform the Department about the community's needs. DHSP focuses on equitably serving Cambridge's diverse community and increasing access to programs and services, particularly to low-income individuals and families. 
+The City of Cambridge is committed to building and supporting a municipal workforce that reflects the diversity of the residents it serves and to maintaining a work environment where all employees can thrive. The city has a long-standing record of nondiscrimination in employment and providing equal opportunity without regard to race, color, sex, religion, creed, national origin, ancestry, sexual orientation, disability, veteran's status, marital status, or age. 
+Duties and responsibilities include but are not limited to the following:
+Oversee the inputting, editing and check distribution of a weekly $450,000 payroll.
+Process benefits, payroll, and personnel transactions for DHSP.
+Supervise and provide support to DHSP Personnel staff
+Review job descriptions, open vacancies, send jobs forward for posting.
+Oversee the receipt and distribution of resumes coming into the department, including internal bid forms.
+Provide Department overview and benefit orientation to all new full-time DHSP employees.
+Answer and explain City and Department Personnel policy questions to all employees.
+Review and process employee tuition assistance and book reimbursement requests for the Department.
+Complete appropriate Worker's Compensation forms and report employee accidents/injuries to the Worker's Compensation Specialist at City Hall.
+Work collaboratively with other City departments, including Personnel and Payroll.
+Participate in DHSP annual budget process.
+Actively engage and support the Department's Race and Equity Initiative.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,FALSE
+2803,Equity & Inclusion,Project Assistant,M491-701,FALSE,NA,NA,25,2022-03-24,2022-04-21,21.17,26.310000000000013,"Education and Experience
 Bachelor's degree in related field or equivalent combination of education, training, and/or experience;
 Minimum 2-3 years professional office experience providing complex administrative support;
 Knowledge, Skills and Abilities
@@ -2676,7 +2676,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -5167,7 +5167,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
