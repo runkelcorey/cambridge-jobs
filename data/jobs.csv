@@ -1211,18 +1211,6 @@ The City of Cambridge's workforce, like the community it serves, is diverse. App
 781,Public Works Department (DPW),Seasonal Laborer – 9 Week Program (Lottery),X750,TRUE,NA,NA,40,2022-03-01,NA,NA,17.19,"Must be a Cambridge resident at time of appointment. Must have proper clothing and footwear, including work boots, in order to perfrom work safely.
  PHYSICAL DEMANDS: Duties range from light physical to heavy laborious tasks. All labor positions, skilled, semi-skilled, and unskilled in the Cambridge Department of Public Works require a combination of repetitive: lifting between 25-200 pounds, bending, squatting, stretching, pushing, dragging, reaching, climbing, and pulling. Employee is required to adhere to all safety and dress code policies. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
  WORK ENVIRONMENT: Candidate will be exposed to all weather conditions and will work in a moderate to high noise level environment caused by sound of machinery or powered equipment being used.","These positions will be filled via a lottery program. The primary responsibility of this position is basic laboring duties. Positions are outdoors, typically on rubbish trucks, in the cemetery or on parks and public properties. Seasonal Laborers perform a combination of a variety of unskilled labor duties of which the following are typical examples: • Picking up rubbish from sidewalks in front of houses and other establishments as required, loading refuse onto trucks, collecting garbage, yard waste and bulky items;• Shoveling materials and leveling areas, removing snow and ice using manual or small powered equipment, spreading salt on icy areas, digging holes, trenches, and other excavations, cleaning out sewers and catch basins; • Loading and unloading supplies, moving furniture, assisting in placing and holding heavy items in place; • Cleaning litter and debris from sidewalks, streets, gutters , and parking lots; • Mowing grass using hand or powered equipment; • Trimming shrubs and lower parts of trees along sidewalks and streets; • Using standard tools, i.e., shovels, picks, axes, saws, heavy wrenches and small powered equipment;• Performing other routine duties as assigned such as cleaning, sweeping, waxing, buffing, polishing, washing floors, walls, sinks, toilets, and other fixtures; picking up, collecting, and disposing of trash; seeing to it that supplies such as soap, towels, and paper are available.",NA,wage,TRUE
-2930,Public Works Department (DPW),Senior Engineer (3-year contract position),M043-708,FALSE,NA,NA,37.5,2022-09-15,2022-09-30,107466,118529,"Bachelor of Science in Civil Engineering or related field.
-Minimum of 5-8 years relevant experience, with progressively increasing levels of responsibility.
-Management of large scale ($20M+) utility projects including deep excavation (20'+), support of excavation designs, effective vibration monitoring, protecting existing utilities during construction, and coordination of significant utility work in a dense urban environment.
-Ability to effectively coordinate construction activities with city departments, the community, and multiple contractors in a dense urban environment.
-Ability to interpret technical information accurately and make decisions in a fast-paced environment consistent with existing laws, regulations, and policies.
-Ability to manage and administer public works construction contracts.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-Knowledge and understanding of environmental laws and regulations as they pertain to municipal drainage and sewer system design, construction, and operation.
-Knowledge of state and federal accessibility requirements and experience designing and constructing accessible facilities.
-Knowledge of complete streets designs, emphasizing superior accommodation for bicyclists and pedestrians.
-Experience with state and municipal purchasing laws and regulations.
-Massachusetts Professional Engineer's License.",NA,NA,salary,TRUE
 2900,Community Development Department,Senior Inclusionary Rental Housing Manager,M525-703,FALSE,NA,NA,37.5,2022-08-03,2022-08-31,97626,115163,"The Inclusionary Rental Housing Senior Manager should be self-motivated, detail-oriented, and ready to help CDD in efforts to provide income-eligible households access to affordable homes. Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
 Education and Experience
 Bachelor's degree and with a of 7 years of relevant professional experience in affordable or assisted housing management, with at least two (2) years' experience in a supervisory capacity, or equivalent combination of education, training, and experience. A Master's degree in real estate, public administration, management, business, or a related field may be substituted for 2 years of experience.
@@ -1602,6 +1590,18 @@ Organizing and filing notices for Planning Board public hearings
 Managing digital data documentation of special permit projects
 Additional projects may be identified based on the applicant's skills and interests and the division's needs
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+2930,Public Works Department (DPW),Senior Engineer (3-year contract position),M043-708,FALSE,NA,NA,37.5,2022-09-15,2022-09-30,107466,118529,"Bachelor of Science in Civil Engineering or related field.
+Minimum of 5-8 years relevant experience, with progressively increasing levels of responsibility.
+Management of large scale ($20M+) utility projects including deep excavation (20'+), support of excavation designs, effective vibration monitoring, protecting existing utilities during construction, and coordination of significant utility work in a dense urban environment.
+Ability to effectively coordinate construction activities with city departments, the community, and multiple contractors in a dense urban environment.
+Ability to interpret technical information accurately and make decisions in a fast-paced environment consistent with existing laws, regulations, and policies.
+Ability to manage and administer public works construction contracts.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+Knowledge and understanding of environmental laws and regulations as they pertain to municipal drainage and sewer system design, construction, and operation.
+Knowledge of state and federal accessibility requirements and experience designing and constructing accessible facilities.
+Knowledge of complete streets designs, emphasizing superior accommodation for bicyclists and pedestrians.
+Experience with state and municipal purchasing laws and regulations.
+Massachusetts Professional Engineer's License.",NA,NA,salary,FALSE
 2869,Information Technology Department,Project Manager / Business Analyst,M708-702,FALSE,NA,NA,37.5,2022-06-29,2022-07-28,95052,112590,"Three (3) to five (5) years of experience performing the role of Project manager and/or Business analyst.
 Bachelor's degree in Information Technology, or equivalent combination of education, experience, and training.
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
@@ -3149,7 +3149,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -5640,7 +5640,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
