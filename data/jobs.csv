@@ -1,31 +1,4 @@
 id,department,title,code,civil,union,hours_min,hours_max,posted,due,pay_min,pay_max,requirements,responsibilities,preferred,type,open
-2960,Personnel Department,Account Coordinator/Employee Benefits,M007-001,TRUE,none,NA,37.5,2022-11-10,2022-12-01,59075,81522,"Two years' administrative experience in accounts payable function in a busy, high-volume setting.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact inclusively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-KNOWLEDGE, SKILLS & ABILITIES: 
-Proficiency with Microsoft Excel, with demonstrated experience in creating, formatting, and modifying spreadsheets and advanced functions. The City may require that candidates take and pass a computer skills proficiency test in Excel at the time of hire.
-Outstanding financial and analytical skills. Able to manage reconciliation and reporting activities of various accounts
-High degree of accuracy and excellent attention to detail.
-Strong interpersonal and customer service skills. Ability to work collaboratively and with departmental partners
-Strong written and verbal communication skills. Able to develop business communications including presentations, reports, email correspondence.
-Exceptional organizational skills. Able to manage priorities in a busy work environment under tight deadlines with frequent interruptions.
-Ability to be proactive, to anticipate and take action to complete tasks or resolve issues before they escalate.
-Ability to handle confidential information discreetly.
-Familiarity with PeopleSoft HR and/or Financials or similar systems.
-Familiarity with the administration of a full range of employee benefit programs.
-Proficiency in one or more other languages, such as Spanish, Amharic, Bangla, Portuguese, Haitian-Creole, and Arabic is beneficial.","Specific job duties include but are not limited to the following:
-Manage invoice payment operations; set up requisitions, and process payments to ensure that invoices are paid promptly; respond to vendor inquiries.
-Perform regular reconciliations between Department records and City's central financial systems.
-Process weekly, monthly, and quarterly employee/retiree benefit contributions and reimbursement payrolls, ensuring timely reports and payments to correct accounts, employee, retirees, and vendors.
-Coordinate with departments (especially Budget, Purchasing, Auditing, and Finance) to facilitate fiscal transactions and bill payments; assist in carrying out year-end closeouts for Employee Benefits and Training budget accounts including health, dental, life insurance bills and third-party training vendors.
-Research, evaluate, and assist in resolving issues or discrepancies for employee benefits accounts; run system generated benefit reports.
-Assemble and maintain data and information for Affordable Care Act (ACA) and Governmental Account Standards Board (GASB) reports.
-Reconcile City benefits enrollment data, employee contributions, and vendor reports.
-Provide wage and separation information on unemployment claims; coordinate hearings; and counsel departments on unemployment issues. Research and report on unemployment bills; seek cost reimbursement from departments.
-Maintain training and tuition reimbursement accounts and records.
-Provide back-up to benefits direct services and workers' compensation function as needed.
-Participate in HRIS system maintenance, implementations, upgrades, and testing.
-Perform other related duties and projects as assigned.
-Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,TRUE
 2964,Human Service Programs,"Administrative Assistant, Cambridge Youth Programs",M558-701,FALSE,NA,NA,30,2022-11-22,2022-12-13,22.73,26.939999999999998,"Must be well organized, reliable, and prompt. Have excellent interpersonal skills, be familiar with Microsoft Office and be able to work cooperatively with a diverse group of people. HS diploma/GED required. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","ESSENTIAL DUTIES AND RESPONSIBILITIES: Act as administrative support to the Division of Youth Programs, performing daily reception and administrative tasks including but not limited to:
 Answer phone calls and emails and respond to caregiver inquiries.
 Direct individual to appropriate services or staff.
@@ -338,7 +311,7 @@ High ethical standards and personal integrity
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies
 Knowledge of Cambridge preferred",NA,NA,salary,TRUE
 2971,City Manager's Office,Chief People Officer,M922-701,FALSE,NA,NA,37.5,2022-12-01,2022-12-29,180000,220000,"Experience
-5+-years of HR experience with demonstrated growth in responsibilities and achievements.
+5+ years of HR experience with demonstrated growth in responsibilities and achievements.
 Experience in assessing organization and talent, then creating and implementing plans to improve performance.
 Experience in change management and adapting across different organizational contexts and cultures
 Experience with HR IT implementations and understanding of project and process management
@@ -351,16 +324,6 @@ Strong problem solving and mediation abilities
 High ethical standards and personal integrity
 Commitment to anti-racism, diversity, equity, and inclusion. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
 Sense of urgency and commitment to deadlines",NA,NA,salary,TRUE
-2970,Water Department,Chief Ranger,M197-001,FALSE,NA,NA,37.5,2022-11-30,2022-12-29,26.71,29.779999999999998,"Education and Experience
-Bachelor's degree in one or more of the following areas: environmental education, environmental/natural sciences, natural resources management, forestry, parks and recreation management or equivalent experience
-At least three (3) years ranger experience, preferably in urban parks
-Knowledge, Skills, and Abilities
-Valid class D motor vehicle operator's license; Valid CPR and standard first aid certificates
-Experience with word processing, spreadsheets, and graphics programs
-Ability to learn new software programs
-Great public speaking skills and ability to write clearly and concisely
-Ability to be appointed a licensed constable in the City of Cambridge
-The City of Cambridge's workforce, like the community it serves, is diverse, and candidates must demonstrate the knowledge, the commitment, and the ability to work effectively with individuals and groups - both employees and residents - with a variety of identities, cultures, backgrounds, and ideologies",NA,NA,wage,TRUE
 2953,"Traffic, Parking and Transportation Department",Clerical Aides (Seasonal)-Up to 3 Positions,X759,FALSE,NA,NA,37.5,2022-11-01,2022-11-15,NA,17.19,"Knowledge of standard office procedures. 
 The ability to work with limited direct supervision and accurately perform assigned duties in a timely and professional manner. 
 Must show a high degree of self-motivation. 
@@ -492,7 +455,7 @@ Basic knowledge of GIS software is a plus
 Basic knowledge of Salesforce is a plus
 Experience creating maps, graphs, and slides for presentations and marketing handouts.
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,wage,TRUE
-2945,Electrical Department,Electrician – 1st shift,C626-002,TRUE,"Teamsters, Local 25",NA,40,2022-10-04,NA,27.85,38.1,"HS Diploma or equivalency. A current and valid Massachusetts Journeyman's Electrician's License. A current and valid Commercial Driver's License Class B, or the ability to obtain one upon hire. Valid Massachusetts Hoisting Engineer License 1B or the ability to obtain licensing within six months. Certification in OSHA 10 Step Safety and Health Training Course, or the ability to obtain certification within six months. The ability to work at heights in excess of 50 feet from an aerial bucket truck.
+2945,Electrical Department,Electrician – 1st shift,C626-002,TRUE,"Teamsters, Local 25",NA,40,2022-12-01,NA,29.85,40.1,"HS Diploma or equivalency. A current and valid Massachusetts Journeyman's Electrician's License. A current and valid Commercial Driver's License Class B, or the ability to obtain one upon hire. Valid Massachusetts Hoisting Engineer License 1B or the ability to obtain licensing within six months. Certification in OSHA 10 Step Safety and Health Training Course, or the ability to obtain certification within six months. The ability to work at heights in excess of 50 feet from an aerial bucket truck.
 Desirable Requirements: Experience with fiber cabling and splicing, traffic signal controller operation, fire alarm, security and traffic signal systems, street light installations. Knowledge of Microsoft Office software. ","ESSENTIAL DUTIES AND RESPONSIBILITIES: Under supervision of the Electrician Coordinator, performs the duties of a Licensed Electrician as required by the Mass. Electrical Board of Electricians. Supervises and instructs an Electrician's Helper and/or Trainee, when assigned. Installs and maintains various types of electrical systems and maintains all electrical systems and equipment owned by the City of Cambridge. Specifically, duties and responsibilities include, but are not limited to the following:
 Installs, tests, repairs, and maintains electrical circuits, wiring systems, fixtures, appliances, poles, and equipment.
 Trouble shoots and repairs faulty electrical wiring, defective electrical equipment, and machinery such as motors, generators, transformers, switches, sockets, etc.
@@ -503,7 +466,7 @@ Maintains the City's street and park lighting, including installation and mainte
 Maintains traffic signals, including emergency repairs and ordinary maintenance.
 Installs and maintains fiber cable in underground conduits and on overhead poles.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
-2946,Electrical Department,Electrician – 2nd shift,C626-112,TRUE,"Teamsters, Local 25",NA,40,2022-10-04,NA,27.85,38.1,"HS Diploma or equivalency. A current and valid Massachusetts Journeyman's Electrician's License. A current and valid Commercial Driver's License Class B, or the ability to obtain one upon hire. Valid Massachusetts Hoisting Engineer License 1B or the ability to obtain licensing within six months. Certification in OSHA 10 Step Safety and Health Training Course, or the ability to obtain certification within six months. The ability to work at heights in excess of 50 feet from an aerial bucket truck.
+2946,Electrical Department,Electrician – 2nd shift,C626-112,TRUE,"Teamsters, Local 25",NA,40,2022-12-01,NA,29.85,40.1,"HS Diploma or equivalency. A current and valid Massachusetts Journeyman's Electrician's License. A current and valid Commercial Driver's License Class B, or the ability to obtain one upon hire. Valid Massachusetts Hoisting Engineer License 1B or the ability to obtain licensing within six months. Certification in OSHA 10 Step Safety and Health Training Course, or the ability to obtain certification within six months. The ability to work at heights in excess of 50 feet from an aerial bucket truck.
 Desirable Requirements: Experience with fiber cabling and splicing, traffic signal controller operation, fire alarm, security and traffic signal systems, street light installations. Knowledge of Microsoft Office software.","ESSENTIAL DUTIES AND RESPONSIBILITIES: Under supervision of the Electrician Coordinator, performs the duties of a Licensed Electrician as required by the Mass. Electrical Board of Electricians. Supervises and instructs an Electrician's Helper and/or Trainee, when assigned. Installs and maintains various types of electrical systems and maintains all electrical systems and equipment owned by the City of Cambridge. Specifically, duties and responsibilities include, but are not limited to the following:
 Installs, tests, repairs, and maintains electrical circuits, wiring systems, fixtures, appliances, poles, and equipment.
 Trouble shoots and repairs faulty electrical wiring, defective electrical equipment, and machinery such as motors, generators, transformers, switches, sockets, etc.
@@ -1141,6 +1104,16 @@ Work evening and weekend hours as needed.
 Provide community relations and customer support to other DPW Operations and initiatives
 Support the Community Relations Manager in daily tasks and on special projects
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
+2970,Water Department,Ranger,M193-702,FALSE,NA,NA,37.5,2022-11-30,2022-12-29,26.71,29.779999999999998,"Education and Experience
+Bachelor's degree in one or more of the following areas: environmental education, environmental/natural sciences, natural resources management, forestry, parks and recreation management or equivalent experience
+At least three (3) years ranger experience, preferably in urban parks
+Knowledge, Skills, and Abilities
+Valid class D motor vehicle operator's license; Valid CPR and standard first aid certificates
+Experience with word processing, spreadsheets, and graphics programs
+Ability to learn new software programs
+Great public speaking skills and ability to write clearly and concisely
+Ability to be appointed a licensed constable in the City of Cambridge
+The City of Cambridge's workforce, like the community it serves, is diverse, and candidates must demonstrate the knowledge, the commitment, and the ability to work effectively with individuals and groups - both employees and residents - with a variety of identities, cultures, backgrounds, and ideologies",NA,NA,wage,TRUE
 781,Public Works Department (DPW),Seasonal Laborer – 9 Week Program (Lottery),X750,TRUE,NA,NA,40,2022-03-01,NA,NA,17.19,"Must be a Cambridge resident at time of appointment. Must have proper clothing and footwear, including work boots, in order to perfrom work safely.
  PHYSICAL DEMANDS: Duties range from light physical to heavy laborious tasks. All labor positions, skilled, semi-skilled, and unskilled in the Cambridge Department of Public Works require a combination of repetitive: lifting between 25-200 pounds, bending, squatting, stretching, pushing, dragging, reaching, climbing, and pulling. Employee is required to adhere to all safety and dress code policies. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
  WORK ENVIRONMENT: Candidate will be exposed to all weather conditions and will work in a moderate to high noise level environment caused by sound of machinery or powered equipment being used.","These positions will be filled via a lottery program. The primary responsibility of this position is basic laboring duties. Positions are outdoors, typically on rubbish trucks, in the cemetery or on parks and public properties. Seasonal Laborers perform a combination of a variety of unskilled labor duties of which the following are typical examples: • Picking up rubbish from sidewalks in front of houses and other establishments as required, loading refuse onto trucks, collecting garbage, yard waste and bulky items;• Shoveling materials and leveling areas, removing snow and ice using manual or small powered equipment, spreading salt on icy areas, digging holes, trenches, and other excavations, cleaning out sewers and catch basins; • Loading and unloading supplies, moving furniture, assisting in placing and holding heavy items in place; • Cleaning litter and debris from sidewalks, streets, gutters , and parking lots; • Mowing grass using hand or powered equipment; • Trimming shrubs and lower parts of trees along sidewalks and streets; • Using standard tools, i.e., shovels, picks, axes, saws, heavy wrenches and small powered equipment;• Performing other routine duties as assigned such as cleaning, sweeping, waxing, buffing, polishing, washing floors, walls, sinks, toilets, and other fixtures; picking up, collecting, and disposing of trash; seeing to it that supplies such as soap, towels, and paper are available.",NA,wage,TRUE
@@ -1522,6 +1495,33 @@ Organizing and filing notices for Planning Board public hearings
 Managing digital data documentation of special permit projects
 Additional projects may be identified based on the applicant's skills and interests and the division's needs
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+2960,Personnel Department,Account Coordinator/Employee Benefits,M007-001,TRUE,none,NA,37.5,2022-11-10,2022-12-01,59075,81522,"Two years' administrative experience in accounts payable function in a busy, high-volume setting.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact inclusively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+KNOWLEDGE, SKILLS & ABILITIES: 
+Proficiency with Microsoft Excel, with demonstrated experience in creating, formatting, and modifying spreadsheets and advanced functions. The City may require that candidates take and pass a computer skills proficiency test in Excel at the time of hire.
+Outstanding financial and analytical skills. Able to manage reconciliation and reporting activities of various accounts
+High degree of accuracy and excellent attention to detail.
+Strong interpersonal and customer service skills. Ability to work collaboratively and with departmental partners
+Strong written and verbal communication skills. Able to develop business communications including presentations, reports, email correspondence.
+Exceptional organizational skills. Able to manage priorities in a busy work environment under tight deadlines with frequent interruptions.
+Ability to be proactive, to anticipate and take action to complete tasks or resolve issues before they escalate.
+Ability to handle confidential information discreetly.
+Familiarity with PeopleSoft HR and/or Financials or similar systems.
+Familiarity with the administration of a full range of employee benefit programs.
+Proficiency in one or more other languages, such as Spanish, Amharic, Bangla, Portuguese, Haitian-Creole, and Arabic is beneficial.","Specific job duties include but are not limited to the following:
+Manage invoice payment operations; set up requisitions, and process payments to ensure that invoices are paid promptly; respond to vendor inquiries.
+Perform regular reconciliations between Department records and City's central financial systems.
+Process weekly, monthly, and quarterly employee/retiree benefit contributions and reimbursement payrolls, ensuring timely reports and payments to correct accounts, employee, retirees, and vendors.
+Coordinate with departments (especially Budget, Purchasing, Auditing, and Finance) to facilitate fiscal transactions and bill payments; assist in carrying out year-end closeouts for Employee Benefits and Training budget accounts including health, dental, life insurance bills and third-party training vendors.
+Research, evaluate, and assist in resolving issues or discrepancies for employee benefits accounts; run system generated benefit reports.
+Assemble and maintain data and information for Affordable Care Act (ACA) and Governmental Account Standards Board (GASB) reports.
+Reconcile City benefits enrollment data, employee contributions, and vendor reports.
+Provide wage and separation information on unemployment claims; coordinate hearings; and counsel departments on unemployment issues. Research and report on unemployment bills; seek cost reimbursement from departments.
+Maintain training and tuition reimbursement accounts and records.
+Provide back-up to benefits direct services and workers' compensation function as needed.
+Participate in HRIS system maintenance, implementations, upgrades, and testing.
+Perform other related duties and projects as assigned.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
 2451,Police Department,Procedural Justice Informatics Analyst,M276-701,FALSE,NA,NA,37.5,2021-02-03,2021-03-03,76227,88253,"Master's degree from an accredited college or university, with major coursework in Geographic Information Systems, Statistics, Research Methods, Program Evaluation, Criminal Justice, Criminology or Police Administration with at least one (1) year of work experience in an analytical field or the equivalent combination of education, training and experience. Must enjoy detail-oriented work and appreciate the importance of accuracy.
 Ability to take initiative and work independently, with minimal supervision, while also being able to work collaboratively as part of a team. Must have strong research and writing abilities, as well as effective organizational and communication skills, both written and verbal. Presentation and public speaking experience is desirable, as well as editing and data visualization and data communication experience. Strong interpersonal skills are essential, including ability to maintain composure, sensitivity, confidentiality, and discretion in interactions with a wide range of individuals.
 Some experience in statistical research and working knowledge of MSOffice applications is required. Demonstrated proficiency with ArcGIS is required.
@@ -1537,7 +1537,7 @@ Establish best practices for maintaining transparency throughout Procedural Just
 Maintain relationships with partners and academic institutions that contribute to or use city data. Identify and engage with outside researchers, partners and data users that can help CPD derive value from data.
 Acquire subject-matter expertise as needed in order to deliver data science projects. Research, recommend and implement new data, methodologies, and solutions to support CPD.
 Keep abreast of industry standards as they relate to Procedural Justice and Data Analytics.",NA,salary,FALSE
-2911,Human Service Programs,"Preschool Head Teacher, Division of Childcare and Family Support",D447-708,FALSE,Local 1596 (United Auto Worker,NA,40,2022-08-10,NA,24.75999999999999,28.97,"Must be a certified Lead Teacher.
+2911,Human Service Programs,"Preschool Head Teacher, Division of Childcare and Family Support",D447-708,FALSE,Local 1596 (United Auto Worker,NA,40,2022-08-10,NA,24.759999999999987,28.97,"Must be a certified Lead Teacher.
 Bachelors' degree preferred.
 Three years' experience working as a teacher with curriculum development and staff supervision.
 Must have good writing and computer skills.
@@ -3494,7 +3494,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -5985,7 +5985,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
