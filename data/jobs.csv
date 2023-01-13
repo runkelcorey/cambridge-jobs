@@ -142,22 +142,6 @@ Work with business owners and other beneficiaries to ensure proper use of ARPA f
 Update digital or manual spreadsheets of applications and contracts.
 Work with Finance and/or other City departments to review vendor payment sheets, ensure they are correct, and resolve any issues or errors prior to final payment.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
-2942,Electrical Department,Assistant City Electrician,M078-701,FALSE,NA,NA,37.5,2022-09-29,2022-10-27,95052,112589,"High School Diploma or GED.
-Knowledge of Massachusetts State Electrical Code.
-Knowledge of Municipal signal systems, fiber cable networks, local network cabling and fire and security building systems.
-Knowledge of utility work for electric and communications installation in or above the public way.
-Knowledge of Telephone systems.
-A minimum of at least five years' experience supervising personnel.
-Demonstrated ability to effectively manage the daily operation of the department.
-Demonstrated ability to make decisions in the field related to streetlight repair and installations.
-Ability to operate a bucket truck, climb ladders, staging and use personnel lifts.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-LICENSE(S) OR CERTIFICATION REQUIREMENTS:
-Valid Massachusetts State Electrician License required.
-Certification in OSHA 30 Step Safety and Health Training Course.
-Knowledge of traffic management plans for work in the public way.
-Familiarity with Microsoft applications, particularly Excel and Word.
-Valid Massachusetts Hoisting Class 1B.",NA,NA,salary,TRUE
 2922,Law Department,Assistant City Solicitor,M088-708,FALSE,NA,NA,37.5,2022-09-06,2022-11-15,119524,138666,"Must have a JD degree from an accredited law school, be a member of the Massachusetts Bar admitted to practice before state and federal courts and have a minimum of three years' experience practicing law. Substantial experience in civil litigation strongly preferred; experience in municipal law and in employment, zoning, real estate, construction, contracts, personal injury, civil rights and/or environmental litigation highly desirable. Must be familiar with and able to perform legal research and draft pleadings and legal documents on computer systems using a variety of law-related software tools. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,salary,TRUE
 2987,Public Works Department (DPW),Assistant Commissioner for Engineering / City Engineer,M798-001,FALSE,NA,NA,37.5,2022-12-22,2023-01-20,161380,179474,"Education and Experience
 Bachelor's degree in Civil Engineering
@@ -498,6 +482,52 @@ Maintain and manage the set of housing priority lists generated through the C-CA
 Manage the Cambridge CAN housing priority pool, including following protocol to refer selected clients to housing vacancies, and responding to agency refusals when necessary.
 Other duties as assigned.
 Reasonable accommodations will be made to enable qualified individuals with disabilities to perform essential job functions.",NA,salary,TRUE
+2992,Information Technology Department,Data Analytics and Open Data Program Manager,M098-701,FALSE,NA,NA,37.5,2023-01-12,2023-02-09,118189,129766,"Education and Experience
+Bachelor's degree in Information Technology, Business, Computer Science, Data Analytics or equivalent combination of education, experience, and training.
+5 to 10 years' experience which includes a combination of Project Management/Business Analysis, Open Data program development, data analytics, GIS and/or web development.
+Knowledge, Skills, and Abilities
+Knowledge in the principles of data analytics, open data, and open government.
+Familiarity with government processes and practices and program management within a government context.
+Knowledge and experience working with various technologies. Be comfortable communicating with internal and external stakeholders on technical issues.
+Strong experience using open-source programming languages and business intelligence tools to implement projects related to data analytics, data engineering, and visualization.
+Solid understanding of APIs, GIS, mapping concepts, and visualizing data.
+Experience working with relational databases such as SQL Server using data extraction routines.
+Working knowledge of open data platforms such as Socrata, CKAN, and GitHub preferred.
+A proven leader with experience developing and implementing plans for broad organizational change.
+Self-motivated, creative, innovative problem solver.
+Be comfortable reaching out to stakeholders to solicit feedback and discover needs.
+Excellent interpersonal skills and the ability to work independently and as part of a team.
+Presentation skills necessary to facilitate training and/or deliver informational sessions to groups and/or individuals.
+Ability to execute technology projects amidst complex organization, political, and legal constraints. 
+Ability to think about policy and culture in addition to technical requirements.
+Ability to learn and embrace new technologies.
+Ability to develop, own, and advocate for programmatic goals and strategic plans.
+Ability to supervise and manage workplans for interns.
+Ability to use one or more open-source programming languages for data analysis, data engineering, and visualization (e.g., R, Python, Javascript).
+Ability to demonstrate strong business analysis skills.
+Ability to work as part of a diverse and highly technical team and build collaborative relationships with people in a manner which shows sensitivity, tact, and professionalism.
+Ability to train people with varying computer skills and aptitudes.
+Ability to communicate effectively to facilitate the successful completion of representative duties and other assigned tasks.
+The City of Cambridge's workforce, like the community it serves, is diverse, and candidates must demonstrate the knowledge, the skills, and the ability to work effectively with individuals and groups - both employees and residents - with a variety of identities, cultures, backgrounds, and ideologies.
+Master's degree
+Successful systems integration experience
+Municipal experience","The specific duties of the position include but are not limited to the following:
+Lead strategic planning efforts to align the Data Analytics & Open Data Program with ITD and City goals.
+Develop and disseminate trainings, business processes, and technical resources to build capacity among staff for leveraging open data, analytics, and business intelligence tools to reach organizational goals.
+Manage and execute large- and small-scale data analytics projects that use data science and business intelligence tools to transform both internal and open municipal data into insights that solve important problems.
+Leverage new codebases and other tools to automate substantial portions of the open data program and other IT functions.
+Communicate analytical processes and insights to non-technical decision makers.
+Develop standards for equitably and ethically leveraging data analytics and automation in Cambridge.
+Collaborate with all City departments, including the City Manager's office, to review, publish, and maintain data sets for public and internal consumers.
+Chair multiple internal and public-facing committees tasked with advising the City on new best practices for the use of data analytics and open data.
+Oversee the management of an open data portal, which serves as the central repository for open data made available by the City. Create procedures for selection, extraction, visualization and maintenance of the portal.
+Develop standards for implementing public facing APIs.
+Engage City departments to convey the strategic importance of sharing data and communicating analytical insights, both internally and externally.
+Manage and expand vendor relationships related to data analytics and open data and establish new relationships as the program and open data marketplace evolves over time.
+Work with City departments on visualizing and mapping tabular datasets.
+Act as a representative of the City within the municipal data and analytics community.
+Plan, implement, and evaluate public outreach events, such as hackathons and data challenges.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,TRUE
 2968,Human Rights Commission,Director of Operations,M609-701,FALSE,NA,NA,37.5,2022-11-22,2022-12-31,72008,91877,"Education and Experience
 Bachelor's degree with at least 3-5 years of experience in project coordination, management, business analysis and/or operations.
 Strong community engagement and consensus-building experience, especially involving stakeholders from diverse backgrounds and with diverse interests and opinions; demonstrated ability to relate to the public and co-workers in a positive manner.
@@ -545,6 +575,20 @@ Maintains the City's street and park lighting, including installation and mainte
 Maintains traffic signals, including emergency repairs and ordinary maintenance.
 Installs and maintains fiber cable in underground conduits and on overhead poles.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
+2993,Public Works Department (DPW),Energy and Sustainability Analyst,Department of Public Works,FALSE,NA,NA,37.5,2023-01-13,2023-02-10,65191,92048,"Bachelor's degree in a related field plus two years of related professional experience or equivalent combination of education, experience, and training.
+ KNOWLEDGE, SKILLS, AND ABILITIES
+The successful candidate should have in-depth understanding of issues related to climate change and energy including direct experience in energy efficiency and sustainability project implementation. Technical experience should include strong data and analytic skills particularly as they apply to energy efficiency, facility management, and renewable energy technology, policy and programs. Ability to work with a wide variety of people, coordinate projects, and achieve consensus. Excellent organizational, communication, computer, writing and analytical skills. Ability to work independently and take initiative a must.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+Bachelor's degree","The essential duties of the Energy and Sustainability Analyst include advancing energy efficiency, greenhouse gas reduction and sustainability in DPW-managed facilities and operations and across City departments. Responsibilities will include but not be limited to:
+Data management and analysis - Oversee the tracking and analysis of municipal energy performance and greenhouse gas emissions reductions over a variety of platforms for both internal and external customers, including the development of enhanced tools. These include MassEnergyInsight, EnergyStar Portfolio Manager, municipal GHG tool and others.
+Responsible for various annual reports, e.g., DOER's Green Communities report, Cambridge's Building Energy Use Disclosure Ordinance report and others.
+Work closely with the Public Buildings division, facility, and fleet managers to maintain high-performing municipal facilities through ongoing monitoring of energy trends and energy management.
+Work closely with Municipal Facilities Improvement and other facility improvement teams to identify and track metrics for high performance buildings
+Assist with coordination and oversight of energy efficiency, Clean Fleet, and other sustainability projects
+Assist with project planning and implementation through grant writing and grant administration.
+New initiative development - Research best practices in energy management and sustainability and collaborate with facility managers and City workgroups to implement.
+May perform other related tasks as needed.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2976,Community Development Department,Energy Engagement Associate Planner,M588-740,FALSE,NA,NA,37.5,2022-12-08,2022-12-29,64545,91137,"Education and Experience
 Minimum of four (4) years of related experience and a related Bachelor's degree. An Associate's degree with six (6) years of related experience, a Master's degree with two (2) years of experience, or 8 years of experience in a professional capacity as a community organizer will also be considered.
 Knowledge, Skills & Abilities
@@ -1521,6 +1565,22 @@ Attend and participate fully in staff meetings, planning sessions, other meeting
 Be a positive role model to youth and develop meaningful relationships with Youth Center members.
 Perform other duties as assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
+2942,Electrical Department,Assistant City Electrician,M078-701,FALSE,NA,NA,37.5,2022-09-29,2022-10-27,95052,112589,"High School Diploma or GED.
+Knowledge of Massachusetts State Electrical Code.
+Knowledge of Municipal signal systems, fiber cable networks, local network cabling and fire and security building systems.
+Knowledge of utility work for electric and communications installation in or above the public way.
+Knowledge of Telephone systems.
+A minimum of at least five years' experience supervising personnel.
+Demonstrated ability to effectively manage the daily operation of the department.
+Demonstrated ability to make decisions in the field related to streetlight repair and installations.
+Ability to operate a bucket truck, climb ladders, staging and use personnel lifts.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+LICENSE(S) OR CERTIFICATION REQUIREMENTS:
+Valid Massachusetts State Electrician License required.
+Certification in OSHA 30 Step Safety and Health Training Course.
+Knowledge of traffic management plans for work in the public way.
+Familiarity with Microsoft applications, particularly Excel and Word.
+Valid Massachusetts Hoisting Class 1B.",NA,NA,salary,FALSE
 2939,Community Development Department,Economic Development Intern,X202,FALSE,NA,0,19.5,2022-09-28,2022-10-19,NA,17.19,"Education & Experience
 Current student pursuing a degree in Public Policy, Urban Planning, or Business Administration. Graduate students are encouraged to apply.
 Knowledge, Skills, & Abilities
@@ -3896,7 +3956,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -6387,7 +6447,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
