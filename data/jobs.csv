@@ -584,7 +584,7 @@ Maintains the City's street and park lighting, including installation and mainte
 Maintains traffic signals, including emergency repairs and ordinary maintenance.
 Installs and maintains fiber cable in underground conduits and on overhead poles.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
-2993,Public Works Department (DPW),Energy and Sustainability Analyst,Department of Public Works,FALSE,NA,NA,37.5,2023-01-13,2023-02-10,65191,92048,"Bachelor's degree in a related field plus two years of related professional experience or equivalent combination of education, experience, and training.
+2993,Public Works Department (DPW),Energy and Sustainability Analyst,M909-701,FALSE,NA,NA,37.5,2023-01-13,2023-02-10,65191,92048,"Bachelor's degree in a related field plus two years of related professional experience or equivalent combination of education, experience, and training.
  KNOWLEDGE, SKILLS, AND ABILITIES
 The successful candidate should have in-depth understanding of issues related to climate change and energy including direct experience in energy efficiency and sustainability project implementation. Technical experience should include strong data and analytic skills particularly as they apply to energy efficiency, facility management, and renewable energy technology, policy and programs. Ability to work with a wide variety of people, coordinate projects, and achieve consensus. Excellent organizational, communication, computer, writing and analytical skills. Ability to work independently and take initiative a must.
 The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
@@ -1388,46 +1388,6 @@ Help with the coordination of meeting room and facility usage.
 Meet and coordinate all team activities with all coaches, provide oversight of their training progress and activities.
 Establish training goals and milestones for all assistant coaches.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. ",NA,wage,TRUE
-2940,Emergency Communications Department,Systems Administrator,M320-703,FALSE,NA,NA,37.5,2022-09-29,2022-10-27,95052,112590,"Three (3) years of experience performing systems administration duties in a mid-size organization.
-Bachelor's degree in information technology, or equivalent combination of education, experience, and training.
-Excellent Communication and Organizational Skills.
-Self-Motivated, ability to work with minimal supervision
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
-KNOWLEDGE, SKILLS, AND ABILITIES:
-Knowledge and experience working with various technologies including, but not limited to:
-Microsoft Server 2008 R2, 2012 R2, 2016, 2019
-Microsoft Active Directory Domain and Microsoft Group Policy
-Enterprise Microsoft 365 Exchange & Azure
-Microsoft Windows 7, 8, 10 and Mobile Operating Systems
-Extensive knowledge of endpoint security
-Microsoft SharePoint and M365 Teams
-Microsoft SCCM Configuration Manager
-Intel Server setup and support
-Strong understanding of Server Virtualization (VMware/ESXi/Hyper-V)
-Enterprise SAN and NAS technologies
-Enterprise package deployment
-Enterprise asset management
-Mobile device management (Android, and iOS as well as VMware Workspace -MDM.)
-Power shell and basic VB scripting
-Network management and troubleshooting (Juniper, Palo Alto etc.)
-Additional network related system support (mobile VPN, Web content filtering etc.)
-VOIP telephone system support and maintenance (Nortel/Avaya PBX)
-Physical security access control and IP camera systems and associated hardware and software
-Ability to select and apply industry standard best practices.
-Ability to conceptualize the role of technology across Public Safety and its relationship in the implementation of other programs and initiatives.
-Ability to demonstrate strong business analysis skills.
-Ability to work as part of a diverse and highly technical team and build collaborative relationships within teams.
-Ability to communicate effectively with vendors and staff to facilitate the successful completion of representative duties and other assigned tasks.","Working at the direction of the Public Safety Infrastructure Manager, responsible for conducting activities related to systems management, monitoring/alerting/logging, service management, incident management, outage reporting, configuration management, and change management. The Systems Administrator identifies and plans systems-related implementations, changes, and enhancements in a proactive manner to position Public Safety staff and end-users for success. Responsibilities include but are not limited to understanding and adhering to City and Public Safety Information Technology standards, policies, and procedures, as well as training best practices. The Systems Administrator researches and analyzes issues, recommends the best course of action on resolving issues, and carries out associated tasks to resolve issues. The incumbent is also responsible for making independent decisions within the context of representative duties and primary job focus and scope. The Systems Administrator uses judgment in identifying issues, analyzing proposed solutions, and developing recommendations which support management decisions, the Public Safety Department missions, and the best interest of end-users.
-Responsibilities include, but are not limited to the following:
-Administer all Public Safety operating systems.
-Responsible for upgrades and installing patches on operating system and applications.
-Responsible for backups and everyday maintenance of servers.
-Responsible for troubleshooting and resolving system problems.
-Responsible for packaging for desktop applications.
-Provide support to department technical users.
-Work closely with the Public Safety Infrastructure Manager, Application and Database Manager, Radio & Telecommunications Manager, and Manager of Technical Support.
-Perform related duties and responsibilities, as assigned by their supervisor.
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2760,Public Works Department (DPW),Tree Climber MEOIIA (Two Positions),C765,FALSE,Teamsters Union Local 25,40,NA,2022-02-11,NA,27.6,32.220000000000006,"One year of tree climbing experience. Department may conduct practical assessment to confirm skill level.
 Must possess a current and valid Commercial Driver's License Classification B
 Must possess a 1-B Hoisting Engineer License
@@ -1593,6 +1553,46 @@ Attend and participate fully in staff meetings, planning sessions, other meeting
 Be a positive role model to youth and develop meaningful relationships with Youth Center members.
 Perform other duties as assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
+2940,Emergency Communications Department,Systems Administrator,M320-703,FALSE,NA,NA,37.5,2022-09-29,2022-10-27,95052,112590,"Three (3) years of experience performing systems administration duties in a mid-size organization.
+Bachelor's degree in information technology, or equivalent combination of education, experience, and training.
+Excellent Communication and Organizational Skills.
+Self-Motivated, ability to work with minimal supervision
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+KNOWLEDGE, SKILLS, AND ABILITIES:
+Knowledge and experience working with various technologies including, but not limited to:
+Microsoft Server 2008 R2, 2012 R2, 2016, 2019
+Microsoft Active Directory Domain and Microsoft Group Policy
+Enterprise Microsoft 365 Exchange & Azure
+Microsoft Windows 7, 8, 10 and Mobile Operating Systems
+Extensive knowledge of endpoint security
+Microsoft SharePoint and M365 Teams
+Microsoft SCCM Configuration Manager
+Intel Server setup and support
+Strong understanding of Server Virtualization (VMware/ESXi/Hyper-V)
+Enterprise SAN and NAS technologies
+Enterprise package deployment
+Enterprise asset management
+Mobile device management (Android, and iOS as well as VMware Workspace -MDM.)
+Power shell and basic VB scripting
+Network management and troubleshooting (Juniper, Palo Alto etc.)
+Additional network related system support (mobile VPN, Web content filtering etc.)
+VOIP telephone system support and maintenance (Nortel/Avaya PBX)
+Physical security access control and IP camera systems and associated hardware and software
+Ability to select and apply industry standard best practices.
+Ability to conceptualize the role of technology across Public Safety and its relationship in the implementation of other programs and initiatives.
+Ability to demonstrate strong business analysis skills.
+Ability to work as part of a diverse and highly technical team and build collaborative relationships within teams.
+Ability to communicate effectively with vendors and staff to facilitate the successful completion of representative duties and other assigned tasks.","Working at the direction of the Public Safety Infrastructure Manager, responsible for conducting activities related to systems management, monitoring/alerting/logging, service management, incident management, outage reporting, configuration management, and change management. The Systems Administrator identifies and plans systems-related implementations, changes, and enhancements in a proactive manner to position Public Safety staff and end-users for success. Responsibilities include but are not limited to understanding and adhering to City and Public Safety Information Technology standards, policies, and procedures, as well as training best practices. The Systems Administrator researches and analyzes issues, recommends the best course of action on resolving issues, and carries out associated tasks to resolve issues. The incumbent is also responsible for making independent decisions within the context of representative duties and primary job focus and scope. The Systems Administrator uses judgment in identifying issues, analyzing proposed solutions, and developing recommendations which support management decisions, the Public Safety Department missions, and the best interest of end-users.
+Responsibilities include, but are not limited to the following:
+Administer all Public Safety operating systems.
+Responsible for upgrades and installing patches on operating system and applications.
+Responsible for backups and everyday maintenance of servers.
+Responsible for troubleshooting and resolving system problems.
+Responsible for packaging for desktop applications.
+Provide support to department technical users.
+Work closely with the Public Safety Infrastructure Manager, Application and Database Manager, Radio & Telecommunications Manager, and Manager of Technical Support.
+Perform related duties and responsibilities, as assigned by their supervisor.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,FALSE
 2931,Police Department,"Case Manager, Family and Social Justice Section",M210-702,FALSE,NA,NA,37.5,2022-09-15,2022-10-18,47576,58381,"Bachelor's degree from an accredited college or university with major coursework in Social Work, Psychology, Criminal Justice or related field or the equivalent combination of education, training, and experience required; Master's degree preferred. Demonstrated ability to work as part of a team as well as being highly self-directed. Excellent communication skills both oral and written and working knowledge of computer software including but not limited to Microsoft Office. Demonstrated ability to interact effectively and sensitively across cultural, racial, age, and other differences. Knowledge of research in the field of social sciences including domestic and gender-based violence prevention and intervention. Ability to develop and sustain partnerships with a wide variety of stakeholders. Experience in or familiarity with public policy, public health, the City of Cambridge, and community relations. Excellent, negotiation, organizational, planning and management skills required. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,salary,FALSE
 2958,Community Development Department,Federal Grant Programs Specialist,X269,FALSE,NA,0,19.5,2022-11-03,2022-11-28,33,42,"Experience & Education:
 Experience managing, monitoring and/or evaluating federal grant programs
@@ -4034,7 +4034,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -6525,7 +6525,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
