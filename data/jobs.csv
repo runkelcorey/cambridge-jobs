@@ -1,25 +1,44 @@
 id,department,title,code,civil,union,hours_min,hours_max,posted,due,pay_min,pay_max,requirements,responsibilities,preferred,type,open
-2991,Inspectional Services Department,Administrative Assistant,C087-001,TRUE,Teamsters Local 25,NA,37.5,2023-01-12,2023-02-09,23.279999999999998,34.83,"High school diploma or equivalent
-Ability to learn new technologies and systems, new software
-Ability to set priorities and to work independently and efficiently to manage individual responsibilities
-Ability to manage multiple responsibilities and tasks simultaneously, and interactions in a fast-paced office environment while remaining attentive to accuracy of work
-Superior customer service skills, excellent written and oral communication skills, excellent organizational and time management skills; strong computer skills including demonstrated proficiency with essential software (Microsoft Office Suite, Zoom, etc.)
-Ability to communicate with a diverse range of Department staff, other City employees, and members of the public in a courteous and professional manner
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies. ","The Administrative Assistant will provide administrative and clerical support to the Inspectional Services Department. Under the supervision of management staff, the specific duties of the position include but are not limited to the following:
-Performs, according to standard office procedures, a variety of administrative support duties requiring knowledge of the functions of the department
-Help customers and members pf the public by phone, at the counter or in the lobby with general inquiries and with completing online permit applications
-Works with legal counsel to submit complaint cases for court proceedings, working on documentation as required; maintains accurate and professional files for active court cases
-Perform data entry or administrative processing of permit types that may be assigned, examines documents for correctness
-Assist ISD staff with troubleshooting logistical or administrative issues
-Monitor online applications and permits/licenses, run reports as requested
-Assist with answering telephones and directing inquiries to appropriate parties
-Maintain databases and accurate and professional files for the department
-Coordinate complaints and inspection requests with other ISD divisions as necessary
-Ensure all complaints received by the division are properly monitored and closed out
-Initiate routine correspondence of the division and after receiving general direction from the commissioner/assistant commissioner/senior code enforcement inspector, develops drafts for non-routine correspondence.
-Sort mail and incoming correspondence
-Performs special duties or analysis as required
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+3021,Emergency Communications Department,911 Call Center Clinician,M628,FALSE,NA,NA,37.5,2023-02-09,2023-03-13,85861,96900,"Education/Experience/License/Certification
+Graduate from an accredited master's in psychology (MA), master's in education (Counseling -Med.) or MSW program.
+Current Massachusetts license LMHC, LMFT, LCSW, LICSW, or license eligibility.
+Minimum of 2 years relevant post-graduate experience, preferably in mental health, community health or criminal justice setting.
+Must be CPR and First Aid certified on date of employment or within 60 days of employment and maintain current certification throughout employment.
+Must possess a valid driver's license.
+Must be able to obtain certification as required by State 911 Department to work in a 911 call center.
+ Knowledge, Skills, and Abilities
+Excellent working knowledge of behavioral medicine and evidence-base
+Ability to work through brief patient contacts in a 911 center as well as make quick and accurate clinical assessments of mental health and behavioral conditions.
+Sensitivity to multi-cultural populations and their experiences and perspectives.
+Ability to deescalate an individual in crisis, create rapport, and maintain a calm demeanor over the phone.
+Working knowledge of major mental illness, personality disorders, traumatic brain injury, dementia, complex trauma, intellectual/developmental disabilities, substance use disorders, suicide assessment, safety planning and crisis de-escalation.
+Ability to work under pressure and quickly but thoroughly assess the immediate stabilization needs of an individual in crisis.
+Ability to effectively communicate client needs when making direct referrals to community resources.
+Ability and eagerness to work with vulnerable individuals, some of whom are experiencing acute mental illness or homelessness.
+Ability to work independently yet collaboratively towards a common goal.
+Ability to learn and help navigate all applicable resources with patients/clients over the phone.
+Ability to maintain strong professional boundaries over the phone.
+Strong written and verbal communication skills.
+Familiarity with psychiatric conditions, crisis de-escalation, and recovery principles.
+The City of Cambridge's workforce, like the community it serves, is diverse, and candidates must demonstrate the knowledge and the ability to work effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+ Preferred
+Experience as a licensed LSW, LCSW, LICSW, LMHC, PhD, or PsyD a plus.
+Experience working in a busy call-center environment a plus.
+Strong awareness of local social service providers/community resources a plus.
+Experience working with adults experiencing homelessness, mental health and substance use preferred. ","ESSENTIAL DUTIES AND RESPONSIBILITIES: Specific duties/responsibilities include but are not limited to the following:
+Provide short-term crisis counseling to clients in behavioral health and/or homelessness crises utilizing harm reduction and trauma-informed care principles in a variety of community settings.
+Support clients in urgent crisis situations requiring immediate attention over the phone by evaluating needs, assessing risks, and dispatching appropriate resources.
+Obtain information and effectively triage a call to the appropriate level of care.
+Perform lethality, environmental risk, and safety assessments and effectively relay this information to responding resources as appropriate.
+Maintain confidentiality and respect the boundaries of clients experiencing emotional distress.
+Engage with individuals that are intoxicated or under the influence of controlled substances.
+Engage with individuals that are experiencing acute mental distress.
+Refer and link patients, clients, or family members to community resources as appropriate.
+Develop appropriate follow up.
+Follow training and protocols to safely de-escalate behavioral health crisis situations over the phone.
+Obtain appropriate paperwork and maintain strict adhesion to confidentiality, documentation, and record-keeping requirements.
+Perform other duties as assigned that may be inherent to the position.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2979,Human Service Programs,Administrative Assistant – Division of Community Schools,M501-703,FALSE,NA,NA,37.5,2022-12-13,2023-01-10,53757,65644,"Education and Experience
 Minimum of 5 years of experience in an office setting
 Experience working with multiple diverse populations
@@ -831,7 +850,7 @@ Coordinate with Federal Grants Manager to develop organized filing systems and d
 Work with Federal Grants Manager to retire inactive physical records and ensure appropriate disposal of no longer needed records. 
 Perform other duties as assigned by the Federal Grants Manager.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
-2654,Police Department,Fiscal Affairs Analyst,M275-702,FALSE,NA,NA,37.5,2021-10-04,NA,53224,64994,"Bachelor's Degree in Accounting, Business, Finance, or related discipline required or equivalent combination of either education and/or experience.
+2654,Police Department,Fiscal Affairs Analyst,M275-702,FALSE,NA,NA,37.5,2023-02-09,NA,53757,65644,"Bachelor's Degree in Accounting, Business, Finance, or related discipline required or equivalent combination of either education and/or experience.
  Demonstrated successful accounting or financial experience, preferably in a public-sector organization or school district.
 Highly organized and detail oriented individual able to handle multiple tasks while working in both a team environment as well as independently with minimum supervision. 
 Excellent communication, organizational, analytical, and planning skills required.
@@ -839,7 +858,7 @@ Working knowledge of computerized financial systems.
 Working knowledge of PeopleSoft Financials a plus. Proficiency in the Microsoft Office Suite, particularly MS Word and Excel is required. 
 Experience in handling confidential and sensitive information a plus.
 The City may require that candidates take and pass a computer skills proficiency test in Excel at the time of hire.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","This position works as part of the Office of Planning Budget and Personnel and reports directly to the Director of Planning, Budget, and Personnel. The Fiscal Affairs Analyst will assist the Director with all the Department's fiscal matters. The Analyst will assist with the duties of the Account Clerk, and/or Payroll Coordinator in their absence. The work requires developing a thorough knowledge of the City's payment and revenue procedures and procurement requirements, to ensure compliance with regulations and accuracy in Departmental reporting. Specific duties include but are not limited to the following:
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","ESSENTIAL DUTIES AND RESPONSIBILITIES: This position works as part of the Office of Planning Budget and Personnel and reports directly to the Director of Planning, Budget, and Personnel. The Fiscal Affairs Analyst will assist the Director with all the Department's fiscal matters. The Analyst will assist with the duties of the Account Clerk, and/or Payroll Coordinator in their absence. The work requires developing a thorough knowledge of the City's payment and revenue procedures and procurement requirements, to ensure compliance with regulations and accuracy in Departmental reporting. Specific duties include but are not limited to the following:
 Assist with monitoring and establishing financial controls to monitor expenditures and revenues, including grant and capital funds
 Maintain various detailed spreadsheets and monthly reconciliations and analysis for revenues and expenditures. This includes running PeopleSoft inquiries and reports at division and/or unit level
 Assist with cash and revenue management, including billing, collection, and other third-party payments
@@ -1285,7 +1304,7 @@ Record and maintain accurate records of all transactions.
 Advise the public of their right to a hearing under Massachusetts General Laws, Chapter 90 § 20A½ and § 20E.
 Perform all other duties as assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the position. ",PREFERRED: Experience using municipal government parking ticket and parking permit databases preferred. Associate degree preferred. Experience in an office environment with comparable skills desirable.,wage,TRUE
-2537,Police Department,"Payroll Coordinator, Office of Planning, Budget & Personnel",C192-701,TRUE,Teamsters Local 25,NA,37.5,2022-01-03,NA,23.66,32.18,"Excellent communication, organizational, analytical, and planning skills. Must have strong attention to detail and accuracy. Must have strong keyboarding skills; be proficient in PeopleSoft HR applications or similar database applications. Must be able to use Microsoft Office Suite, particularly Excel, to a high level including the use of formulas. Must be able to learn new systems. Three years of office work experience with preference in the area of preparation and maintenance of payroll and/or accounting. Experience with human resources/personnel work in a large organization is highly desired, as is experience in handling confidential and sensitive information. Demonstrated customer service experience. Must be able to deal with the diverse public in a professional and courteous manner. Good problem-solving techniques necessary. At least one-year administrative support experience in accounts payable/receivable, finance, and/or debt collection or an associate degree in accounting or related field preferred. The City may require that candidates take and pass a computer skills proficiency test in Microsoft Outlook, Word, and/or Excel at the time of hire.","In support of the Office of the Commissioner, this position will be working in the Office of Planning, Budget, and Personnel to assist in providing high quality and confidential management of the Department's human resources functions including payroll and personnel. The primary function of this position is to prepare and process the weekly payroll of the Department. The Payroll Coordinator will also perform payroll/personnel tasks relating to general understanding of civil service and non-civil service employment procedures. Specific duties include but are not limited to:
+2537,Police Department,"Payroll Coordinator, Office of Planning, Budget & Personnel",C192-701,TRUE,Teamsters Local 25,NA,37.5,2023-02-09,NA,25.03,33.77,"Excellent communication, organizational, analytical, and planning skills. Must have strong attention to detail and accuracy. Must have strong keyboarding skills; be proficient in PeopleSoft HR applications or similar database applications. Must be able to use Microsoft Office Suite, particularly Excel, to a high level including the use of formulas. Must be able to learn new systems. Three years of office work experience with preference in the area of preparation and maintenance of payroll and/or accounting. Experience with human resources/personnel work in a large organization is highly desired, as is experience in handling confidential and sensitive information. Demonstrated customer service experience. Must be able to deal with the diverse public in a professional and courteous manner. Good problem-solving techniques necessary. At least one-year administrative support experience in accounts payable/receivable, finance, and/or debt collection or an associate degree in accounting or related field preferred. The City may require that candidates take and pass a computer skills proficiency test in Microsoft Outlook, Word, and/or Excel at the time of hire.","ESSENTIAL DUTIES AND RESPONSIBILITIES: In support of the Office of the Commissioner, this position will be working in the Office of Planning, Budget, and Personnel to assist in providing high quality and confidential management of the Department's human resources functions including payroll and personnel. The primary function of this position is to prepare and process the weekly payroll of the Department. The Payroll Coordinator will also perform payroll/personnel tasks relating to general understanding of civil service and non-civil service employment procedures. Specific duties include but are not limited to:
 Perform various duties associated with the processing and preparation of the Police Department weekly and monthly payrolls for over 300 police employees of various classifications and co-ordinate distribution of paychecks. Collect and review department weekly timesheets for accuracy. 
 Complete weekly and monthly Payroll Register and distribute weekly and monthly paychecks.
 Maintain accurate payroll records and calculations of standard and other work benefit hours such as: sick, personal, vacation, administrative and any other leave time adjustments, longevity, overtime and court-time pay hours, annual step increments, clothing/cleaning allowances, sworn education incentives, various stipends, prorated benefits, and other miscellaneous wage and compensation tasks. Perform monthly leave time reconciliations and prepare memoranda/reports documenting or adjusting use of leave/benefit time.
@@ -1331,7 +1350,6 @@ Assist with the Development and running of reports for fiscal year annual budget
 Performs other related duties, as assigned, for the purpose of ensuring the efficient and effective functioning of the work unit.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 2836,Public Works Department (DPW),Plumber I /Journeyman (2 positions),C715-001 & C715-002,TRUE,Local 25,NA,40,2022-09-08,2022-10-11,25.86,34.08,Applicant must have two years of experience as a plumber and possess a current and valid Journeyman or Master Plumber's License issued through the Commonwealth of Massachusetts Division of Registration by the Board of State Examiners of Plumbers and Gas Fitters at the time of application.,NA,NA,wage,TRUE
-2990,Inspectional Services Department,Plumbing & Gas Inspector,I214-001,TRUE,The Area Trades Council,NA,37.5,2023-01-12,2023-02-09,35.65,45.37,"Applicant must be a Licensed Master Plumber. Must have a personal vehicle to be used to and from inspection locations. Must have a personal cell phone to be used during work hours to communicate with the office. Must have knowledge of the following software applications: Microsoft Excel, Word and Outlook. Must have the ability to learn the City's computerized permit program and use of a tablet in the field. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,wage,TRUE
 2910,Human Service Programs,"Preschool Teacher, Childcare and Family Support Service","D446-709, D446-722",FALSE,Local 1596 (United Auto Worker,NA,40,2023-01-04,NA,21.14,24.49,"Must meet or exceed EEC regulations for preschool teacher and be at least 21 years of age.
 BA preferred
 At least three years' experience in teaching, including 9 months of supervised experience.
@@ -1436,6 +1454,38 @@ Serves as a liaison to the City Council and responds to public inquiries related
 Contributes to policy discussion around other environmental health issues, including but not limited vector control.
 Attends to other related duties as required.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
+3020,Emergency Communications Department,Project Manager / Business Analyst,M278,FALSE,NA,NA,37.5,2023-02-09,2023-03-13,59666,82337," Education and Experience
+Bachelor's degree in Information Technology, Business or equivalent combination of education, experience, and training.
+Three (3) to five (5) years of experience performing the role of Project Manager and/or Business Analyst or similar role.
+Experience tracking, monitoring, and reporting the progress of project activities; meeting notes, report status, risks, issues; coordinates next steps and track project deliverables.
+ Knowledge, Skills, and Abilities:
+Excellent written and oral communication skills.
+Demonstrated effectiveness as a team member.
+Strong written and verbal communication skills.
+Ability to organize and prioritize the coordination of multiple projects and assignments.
+Demonstrated experience tracking and monitoring and reporting the progress of project activities; meeting notes, report status, risks, issues; coordinates next steps and track project deliverables.
+Ability to appropriately handle sensitive/confidential information.
+Possesses strong proficiency in Microsoft Windows Office Suite (Outlook, Word, PowerPoint, Excel).
+Strong organizational skills and ability to work independently.
+Ability to work as part of a diverse and highly technical team and build collaborative relationships.
+Proficiency with project management and business analysis best practices.
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.
+ Preferred:
+Experience working in Public Safety.
+Experience with cloud and on-premises solutions.
+Experience with project management software such as Smartsheet or Microsoft Project.
+Experience with relational databases (Access, SQL Server) and Shiny by RStudio.
+Experience in data analysis, open data, and other metric tracking systems.
+Project Management Professional (PMP) certification or equivalent. ","ESSENTIAL DUTIES AND RESPONSIBILITIES: Specific duties/responsibilities include but are not limited to the following:
+Assist project teams to identify the solution that meets the defined requirements.
+Work with public safety departments to help define and document processes that will help streamline the adoption and use of technology.
+Create documentation: functional requirements; process analysis; gap analysis; status reports; meeting notes; design specifications; and test plans.
+Track and monitor the progress of project activities; meeting notes, report status, risks, issues; coordinates next steps and track project deliverables.
+Lead internal requirement reviews to share/discuss functional requirements.
+Communicate with internal/external team members to define/discuss/document department needs.
+Maintain technical proficiency in project management software, enterprise systems and public safety technology solutions.
+May perform other duties as assigned.
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
 3015,Human Service Programs,Rotating Teacher,M445-701,FALSE,NA,NA,35,2023-02-07,2023-03-07,20.74,26.310000000000002,"Education and Experience
 Applicant must be 21 years of age or older.
 Minimum of HS Diploma/GED and 1 year of related experience; Associate Degree and 9 months half-time experience; or B.A. with 6 months half-time experience.
@@ -1511,7 +1561,7 @@ Compiling and analyzing program data to assess outcomes relative to program goal
 Assisting with other City housing programs and special housing projects as needed
 Performing other duties as required.
 Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,salary,TRUE
-2550,Libraries,Senior Substitute (Intermittent) – 2 Positions,X426,FALSE,NA,NA,10,2022-03-01,NA,NA,20,"High school diploma or high school equivalency required. A Bachelor's degree or coursework beyond the high school level is desirable. Library experience is strongly preferred
+2550,Libraries,Senior Substitute (Intermittent) – 2 Positions,X426,FALSE,NA,NA,10,2023-02-10,NA,NA,22,"High school diploma or high school equivalency required. A Bachelor's degree or coursework beyond the high school level is desirable. Library experience is strongly preferred
 Strong customer service skills
 Ability and willingness to be a strong team player and treat colleagues with courtesy and respect
 Ability to exhibit a positive attitude in all situations
@@ -1519,15 +1569,7 @@ Ability to handle the unexpected and stay calm and professional under pressure
 Working knowledge of basic public library concepts and resources
 Ability to follow oral and written instructions accurately and thoroughly
 Tact. Patience. Maturity.
-The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","Performs public service desk coverage at the Main Library and all branches, as needed. Provides outstanding customer service. Specific duties include but are not limited to the following: 
-Provides substitute coverage for all departments and branches of the Library, as needed
-Performs functions related to circulation: check-outs, check-ins, reserves, renewals, fine assessment and collection, and similar related tasks
-Provides outstanding and engaging customer service to the public
-Assists borrowers in locating books and materials and, when necessary, refers them to other staff members
-Shelves materials and reads shelves as needed
-Processes deliveries - moving and unloading bins and checking-in items
-Any other duties required for the good of the library
-Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,TRUE
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,wage,TRUE
 2972,Information Technology Department,Senior Web Developer,M252-701,FALSE,NA,NA,37.5,2022-12-06,2023-02-28,107466,118929,"Education and Experience
 Bachelor of Science degree in Computer Science or equivalent work experience required
 5+ years of experience with Sitecore development and implementation or Sitecore 9/10 .NET Developer Certification
@@ -1919,6 +1961,28 @@ Attend and participate fully in staff meetings, planning sessions, other meeting
 Be a positive role model to youth and develop meaningful relationships with Youth Center members.
 Perform other duties as assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,wage,TRUE
+2991,Inspectional Services Department,Administrative Assistant,C087-001,TRUE,Teamsters Local 25,NA,37.5,2023-01-12,2023-02-09,23.279999999999994,34.83,"High school diploma or equivalent
+Ability to learn new technologies and systems, new software
+Ability to set priorities and to work independently and efficiently to manage individual responsibilities
+Ability to manage multiple responsibilities and tasks simultaneously, and interactions in a fast-paced office environment while remaining attentive to accuracy of work
+Superior customer service skills, excellent written and oral communication skills, excellent organizational and time management skills; strong computer skills including demonstrated proficiency with essential software (Microsoft Office Suite, Zoom, etc.)
+Ability to communicate with a diverse range of Department staff, other City employees, and members of the public in a courteous and professional manner
+The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.","The Administrative Assistant will provide administrative and clerical support to the Inspectional Services Department. Under the supervision of management staff, the specific duties of the position include but are not limited to the following:
+Performs, according to standard office procedures, a variety of administrative support duties requiring knowledge of the functions of the department
+Help customers and members pf the public by phone, at the counter or in the lobby with general inquiries and with completing online permit applications
+Works with legal counsel to submit complaint cases for court proceedings, working on documentation as required; maintains accurate and professional files for active court cases
+Perform data entry or administrative processing of permit types that may be assigned, examines documents for correctness
+Assist ISD staff with troubleshooting logistical or administrative issues
+Monitor online applications and permits/licenses, run reports as requested
+Assist with answering telephones and directing inquiries to appropriate parties
+Maintain databases and accurate and professional files for the department
+Coordinate complaints and inspection requests with other ISD divisions as necessary
+Ensure all complaints received by the division are properly monitored and closed out
+Initiate routine correspondence of the division and after receiving general direction from the commissioner/assistant commissioner/senior code enforcement inspector, develops drafts for non-routine correspondence.
+Sort mail and incoming correspondence
+Performs special duties or analysis as required
+Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.",NA,wage,FALSE
+2990,Inspectional Services Department,Plumbing & Gas Inspector,I214-001,TRUE,The Area Trades Council,NA,37.5,2023-01-12,2023-02-09,35.65,45.37,"Applicant must be a Licensed Master Plumber. Must have a personal vehicle to be used to and from inspection locations. Must have a personal cell phone to be used during work hours to communicate with the office. Must have knowledge of the following software applications: Microsoft Excel, Word and Outlook. Must have the ability to learn the City's computerized permit program and use of a tablet in the field. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,wage,FALSE
 2922,Law Department,Assistant City Solicitor,M088-708,FALSE,NA,NA,37.5,2022-09-06,2022-11-15,120719,140053,"Must have a JD degree from an accredited law school, be a member of the Massachusetts Bar admitted to practice before state and federal courts and have a minimum of three years' experience practicing law. Substantial experience in civil litigation strongly preferred; experience in municipal law and in employment, zoning, real estate, construction, contracts, personal injury, civil rights and/or environmental litigation highly desirable. Must be familiar with and able to perform legal research and draft pleadings and legal documents on computer systems using a variety of law-related software tools. The City of Cambridge's workforce, like the community it serves, is diverse. Applicants must have the ability to work and interact effectively with individuals and groups with a variety of identities, cultures, backgrounds, and ideologies.",NA,NA,salary,FALSE
 2952,Community Development Department,Associate Zoning Planner,M588-729,FALSE,NA,NA,37.5,2022-10-20,2022-11-10,65191,92048,"Education & Experience:
 Bachelor's degree in urban planning, real estate, architecture, landscape architecture, historic preservation, public administration, or related field AND four (4) years of relevant work experience. A Master's degree in one of the above fields may substitute for up to two (2) years of required experience.
@@ -4555,7 +4619,7 @@ Serve as a liaison with community-based programs to promote collaborative work b
 Maintain a commitment to ensuring anti-racism, equity, and inclusion are incorporated into every aspect of the work.
 Perform other duties that may be assigned.
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.349999999999994,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
+2864,Libraries,IT Senior Technician,L436-701,FALSE,"CPLSA, Local 4928",NA,37.5,2022-06-21,2022-07-12,36.2,41.35,"Three (3) to five (5) years of experience performing technical support duties and a Bachelor's degree in a related field, or equivalent combination of education, experience, and training.
 Commitment to doing all work through a lens of diversity, equity, inclusion, and anti-racism.
 Ability to effectively communicate technical information to audiences of differing levels of experience, both technical and non-technical.
 Preferred:
@@ -7046,7 +7110,7 @@ Work with the Assistant Director of PSIT and the Systems Administrators to devel
 Responsible for troubleshooting and resolving system problems.
 Perform related duties and responsibilities, as assigned, which may include system administration related tasks
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",NA,salary,FALSE
-2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.38,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
+2723,Libraries,"Manager, Library STEAM Programs (Temporary 5 months)",M218-701,FALSE,NA,NA,37.5,2021-12-21,2022-01-18,39.379999999999995,46.6,"A Bachelor's degree required, preferably in science, technology, education, or related field
 Proven successful experience in science/STEAM education with a solid foundation in science, engineering, and/or math
 3-5 years of experience successfully managing STEAM-related efforts including writing curriculum, instruction, and overseeing a makerspace/innovation lab
 Demonstrated interpersonal skills necessary to work effectively and collaboratively with diverse groups; Ability to thrive in a working environment with constant public contact with people from all backgrounds and age groups
